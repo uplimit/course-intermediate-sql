@@ -1,0 +1,1000 @@
+order_id,user_id,user_demographic,product_id,product_category,location_id,location_region,purchase_date,list_price,sale_price,sale_margin
+1,9,American Indian,6,Kids Toys,7,SE,2021-10-24 23:40:00,45.67,36.98,2.79
+2,9,American Indian,4,Electronics,2,NW,2021-05-22 01:33:00,345.67,342.17,15.07
+3,4,White,1,Kids Toys,2,NW,2021-04-14 18:38:00,23.45,22.94,0.32
+4,6,African American,2,Mens Apparel,5,NE,2021-05-14 07:53:00,34.56,29.49,2.73
+5,6,African American,3,Kitchen Appliance,8,SW,2021-06-22 13:40:00,99.99,87.32,1.91
+6,7,White,1,Kids Toys,4,SW,2021-08-21 12:22:00,23.45,21.07,0.6
+7,4,White,4,Electronics,7,SE,2021-04-22 10:16:00,345.67,285.66,23.96
+8,10,Pacific Islander,2,Mens Apparel,4,SW,2021-10-01 03:19:00,34.56,33.75,1.97
+9,7,White,6,Kids Toys,2,NW,2021-08-25 02:26:00,45.67,43.16,3.54
+10,12,Asian,5,Electronics,1,NE,2021-11-27 09:44:00,999.99,935.12,17.84
+11,7,White,2,Mens Apparel,1,NE,2021-03-08 23:56:00,34.56,28.75,1.93
+12,4,White,6,Kids Toys,4,SW,2021-05-02 22:57:00,45.67,38.27,2.44
+13,7,White,4,Electronics,7,SE,2021-05-04 11:07:00,345.67,306.55,4.55
+14,10,Pacific Islander,7,Mens Apparel,1,NE,2021-03-07 07:24:00,45.98,40.69,3.51
+15,6,African American,6,Kids Toys,8,SW,2021-06-25 14:18:00,45.67,38.44,2.02
+16,8,Asian,3,Kitchen Appliance,4,SW,2021-01-12 18:51:00,99.99,86.95,3.24
+17,9,American Indian,8,Kitchen Appliance,1,NE,2021-09-29 09:47:00,65.87,53.61,0.82
+18,4,White,8,Kitchen Appliance,7,SE,2021-12-25 00:27:00,65.87,59.39,0.16
+19,4,White,4,Electronics,2,NW,2021-08-04 23:30:00,345.67,297.5,26.29
+20,11,Asian,3,Kitchen Appliance,8,SW,2021-07-15 16:57:00,99.99,94.98,2.84
+21,8,Asian,7,Mens Apparel,8,SW,2021-03-12 16:32:00,45.98,43.73,1.22
+22,1,Asian,3,Kitchen Appliance,7,SE,2021-03-26 05:15:00,99.99,94.72,5.38
+23,4,White,6,Kids Toys,6,NW,2021-10-24 23:05:00,45.67,44.08,3.76
+24,7,White,2,Mens Apparel,1,NE,2021-05-04 04:06:00,34.56,30.97,0.55
+25,2,American Indian,4,Electronics,1,NE,2021-04-27 05:21:00,345.67,315.24,11.35
+26,6,African American,6,Kids Toys,3,SE,2021-07-14 05:54:00,45.67,38.71,2.87
+27,4,White,2,Mens Apparel,1,NE,2021-06-24 18:07:00,34.56,31.53,0.91
+28,6,African American,4,Electronics,5,NE,2021-10-13 04:13:00,345.67,340.23,24.23
+29,8,Asian,7,Mens Apparel,6,NW,2021-09-29 15:21:00,45.98,37.21,1.39
+30,7,White,6,Kids Toys,2,NW,2021-02-20 05:23:00,45.67,42.64,0.22
+31,3,Pacific Islander,6,Kids Toys,7,SE,2021-11-02 18:14:00,45.67,38.89,3.53
+32,1,Asian,6,Kids Toys,1,NE,2021-05-29 00:52:00,45.67,44.36,3.71
+33,1,Asian,6,Kids Toys,8,SW,2021-12-08 06:47:00,45.67,44.77,2.99
+34,2,American Indian,8,Kitchen Appliance,1,NE,2021-01-08 11:30:00,65.87,61.38,0.36
+35,9,American Indian,7,Mens Apparel,6,NW,2021-10-26 18:07:00,45.98,41.39,3.63
+36,3,Pacific Islander,1,Kids Toys,5,NE,2021-01-20 21:56:00,23.45,19.71,0.48
+37,10,Pacific Islander,5,Electronics,6,NW,2021-10-06 09:41:00,999.99,851.09,83.75
+38,4,White,5,Electronics,1,NE,2021-02-16 08:44:00,999.99,935.01,4.21
+39,5,African American,5,Electronics,8,SW,2021-11-18 09:07:00,999.99,898.58,39.06
+40,8,Asian,3,Kitchen Appliance,4,SW,2021-10-07 00:28:00,99.99,81.97,0.3
+41,1,Asian,5,Electronics,2,NW,2021-04-14 08:31:00,999.99,843.23,61.83
+42,5,African American,4,Electronics,5,NE,2021-10-27 11:40:00,345.67,308.17,13.14
+43,1,Asian,4,Electronics,8,SW,2021-03-06 06:32:00,345.67,302.47,19.33
+44,11,Asian,7,Mens Apparel,3,SE,2021-07-12 18:40:00,45.98,40.99,1.99
+45,10,Pacific Islander,7,Mens Apparel,2,NW,2021-11-02 21:00:00,45.98,37.54,1.48
+46,2,American Indian,8,Kitchen Appliance,2,NW,2021-12-06 09:38:00,65.87,54.67,5.08
+47,1,Asian,1,Kids Toys,3,SE,2021-07-27 18:28:00,23.45,20.48,1.72
+48,12,Asian,6,Kids Toys,1,NE,2021-04-22 05:24:00,45.67,40.82,1.19
+49,6,African American,7,Mens Apparel,8,SW,2021-12-05 00:42:00,45.98,42.81,0.82
+50,6,African American,1,Kids Toys,8,SW,2021-07-11 21:45:00,23.45,19.37,1.91
+51,2,American Indian,4,Electronics,1,NE,2021-08-20 14:26:00,345.67,298.2,8.14
+52,3,Pacific Islander,2,Mens Apparel,4,SW,2021-05-27 21:11:00,34.56,30.09,0.21
+53,3,Pacific Islander,6,Kids Toys,5,NE,2021-06-15 13:44:00,45.67,39.8,0.84
+54,9,American Indian,2,Mens Apparel,3,SE,2021-05-18 01:38:00,34.56,29.47,1.22
+55,12,Asian,2,Mens Apparel,2,NW,2021-08-22 19:50:00,34.56,30.72,2.29
+56,1,Asian,6,Kids Toys,1,NE,2021-02-07 00:56:00,45.67,40.18,2.75
+57,10,Pacific Islander,1,Kids Toys,6,NW,2021-04-29 10:06:00,23.45,19.01,1.63
+58,7,White,2,Mens Apparel,1,NE,2021-05-28 05:07:00,34.56,28.12,1.31
+59,7,White,8,Kitchen Appliance,7,SE,2021-10-19 00:47:00,65.87,63.12,3.37
+60,9,American Indian,6,Kids Toys,8,SW,2021-11-25 01:13:00,45.67,45.61,0.19
+61,2,American Indian,8,Kitchen Appliance,5,NE,2021-07-20 09:16:00,65.87,60.15,5.79
+62,1,Asian,6,Kids Toys,4,SW,2021-12-09 20:48:00,45.67,41.03,4.0
+63,9,American Indian,1,Kids Toys,7,SE,2021-06-17 07:14:00,23.45,21.16,1.62
+64,12,Asian,1,Kids Toys,5,NE,2021-09-24 04:37:00,23.45,20.45,0.39
+65,2,American Indian,8,Kitchen Appliance,5,NE,2021-02-02 03:15:00,65.87,64.36,5.56
+66,1,Asian,1,Kids Toys,6,NW,2021-07-29 22:41:00,23.45,20.38,1.17
+67,8,Asian,2,Mens Apparel,5,NE,2021-03-19 10:13:00,34.56,27.98,2.07
+68,3,Pacific Islander,2,Mens Apparel,2,NW,2021-11-15 01:59:00,34.56,31.86,3.15
+69,8,Asian,4,Electronics,6,NW,2021-08-04 06:38:00,345.67,291.38,25.4
+70,12,Asian,6,Kids Toys,7,SE,2021-04-11 22:41:00,45.67,40.88,0.68
+71,2,American Indian,3,Kitchen Appliance,5,NE,2021-04-28 08:00:00,99.99,92.8,2.73
+72,6,African American,8,Kitchen Appliance,7,SE,2021-05-24 09:15:00,65.87,56.52,3.94
+73,12,Asian,8,Kitchen Appliance,8,SW,2021-03-01 08:35:00,65.87,56.02,3.31
+74,5,African American,6,Kids Toys,1,NE,2021-01-18 19:55:00,45.67,39.72,1.93
+75,12,Asian,1,Kids Toys,2,NW,2021-08-02 23:12:00,23.45,21.13,0.49
+76,8,Asian,5,Electronics,5,NE,2021-07-09 02:14:00,999.99,871.96,24.35
+77,10,Pacific Islander,5,Electronics,5,NE,2021-09-16 10:10:00,999.99,819.25,38.23
+78,9,American Indian,7,Mens Apparel,6,NW,2021-08-13 11:06:00,45.98,38.8,3.82
+79,2,American Indian,5,Electronics,5,NE,2021-03-10 06:17:00,999.99,829.64,50.81
+80,9,American Indian,1,Kids Toys,7,SE,2021-11-16 08:55:00,23.45,23.03,1.08
+81,11,Asian,4,Electronics,6,NW,2021-05-13 13:32:00,345.67,321.16,10.02
+82,8,Asian,2,Mens Apparel,3,SE,2021-01-22 17:57:00,34.56,33.17,1.43
+83,10,Pacific Islander,8,Kitchen Appliance,5,NE,2021-09-10 07:45:00,65.87,63.24,5.02
+84,11,Asian,2,Mens Apparel,1,NE,2021-12-03 08:38:00,34.56,28.91,1.64
+85,5,African American,6,Kids Toys,6,NW,2021-01-10 19:04:00,45.67,45.2,0.49
+86,4,White,3,Kitchen Appliance,5,NE,2021-12-14 02:11:00,99.99,83.98,7.42
+87,11,Asian,5,Electronics,5,NE,2021-04-04 07:55:00,999.99,980.33,25.62
+88,2,American Indian,1,Kids Toys,7,SE,2021-08-01 05:01:00,23.45,18.92,0.3
+89,9,American Indian,8,Kitchen Appliance,2,NW,2021-11-22 14:26:00,65.87,65.57,2.81
+90,8,Asian,8,Kitchen Appliance,8,SW,2021-12-03 20:29:00,65.87,58.19,1.74
+91,7,White,4,Electronics,3,SE,2021-08-25 06:02:00,345.67,281.81,10.03
+92,2,American Indian,1,Kids Toys,3,SE,2021-05-17 12:34:00,23.45,19.34,0.33
+93,10,Pacific Islander,7,Mens Apparel,8,SW,2021-05-26 07:47:00,45.98,41.59,0.12
+94,5,African American,7,Mens Apparel,8,SW,2021-06-28 05:35:00,45.98,45.11,0.39
+95,7,White,2,Mens Apparel,6,NW,2021-10-16 07:54:00,34.56,31.81,1.05
+96,3,Pacific Islander,4,Electronics,8,SW,2021-09-01 07:51:00,345.67,312.46,15.46
+97,6,African American,2,Mens Apparel,1,NE,2021-07-04 20:39:00,34.56,31.83,0.19
+98,8,Asian,4,Electronics,6,NW,2021-12-18 05:52:00,345.67,301.11,26.41
+99,1,Asian,5,Electronics,2,NW,2021-11-22 09:02:00,999.99,908.01,75.18
+100,5,African American,4,Electronics,6,NW,2021-03-01 06:42:00,345.67,312.21,7.91
+101,2,American Indian,5,Electronics,4,SW,2021-05-28 14:54:00,999.99,918.0,80.32
+102,3,Pacific Islander,1,Kids Toys,5,NE,2021-12-26 13:04:00,23.45,22.41,0.11
+103,3,Pacific Islander,8,Kitchen Appliance,6,NW,2021-01-19 11:21:00,65.87,52.81,5.12
+104,5,African American,2,Mens Apparel,8,SW,2021-06-22 02:58:00,34.56,28.29,1.79
+105,11,Asian,2,Mens Apparel,3,SE,2021-12-20 10:58:00,34.56,28.38,0.95
+106,12,Asian,6,Kids Toys,6,NW,2021-08-14 21:16:00,45.67,44.36,1.82
+107,12,Asian,2,Mens Apparel,8,SW,2021-04-21 21:59:00,34.56,30.06,2.75
+108,12,Asian,5,Electronics,6,NW,2021-01-12 23:09:00,999.99,938.35,75.35
+109,6,African American,1,Kids Toys,4,SW,2021-03-16 11:36:00,23.45,19.64,1.32
+110,2,American Indian,8,Kitchen Appliance,2,NW,2021-07-09 10:49:00,65.87,61.74,4.9
+111,3,Pacific Islander,6,Kids Toys,3,SE,2021-10-05 23:46:00,45.67,39.73,2.9
+112,4,White,3,Kitchen Appliance,7,SE,2021-03-12 08:46:00,99.99,87.79,3.66
+113,6,African American,4,Electronics,8,SW,2021-12-12 05:56:00,345.67,287.8,22.15
+114,11,Asian,1,Kids Toys,8,SW,2021-05-02 21:16:00,23.45,19.98,0.27
+115,11,Asian,6,Kids Toys,2,NW,2021-12-08 08:32:00,45.67,40.17,1.04
+116,7,White,7,Mens Apparel,3,SE,2021-05-27 21:00:00,45.98,40.26,2.57
+117,9,American Indian,8,Kitchen Appliance,2,NW,2021-10-28 03:36:00,65.87,54.56,0.85
+118,8,Asian,8,Kitchen Appliance,5,NE,2021-04-09 10:40:00,65.87,59.03,3.59
+119,5,African American,2,Mens Apparel,3,SE,2021-05-16 21:47:00,34.56,30.17,1.2
+120,8,Asian,3,Kitchen Appliance,3,SE,2021-11-14 20:45:00,99.99,84.86,3.06
+121,8,Asian,6,Kids Toys,3,SE,2021-04-11 13:49:00,45.67,41.66,0.01
+122,4,White,2,Mens Apparel,2,NW,2021-06-24 02:43:00,34.56,31.48,2.29
+123,10,Pacific Islander,1,Kids Toys,6,NW,2021-01-04 10:17:00,23.45,19.3,1.23
+124,2,American Indian,5,Electronics,8,SW,2021-12-11 21:47:00,999.99,806.91,26.47
+125,8,Asian,1,Kids Toys,7,SE,2021-01-02 06:56:00,23.45,20.72,0.86
+126,7,White,3,Kitchen Appliance,2,NW,2021-12-14 12:11:00,99.99,85.73,4.63
+127,12,Asian,7,Mens Apparel,1,NE,2021-09-09 00:02:00,45.98,45.73,2.96
+128,3,Pacific Islander,5,Electronics,2,NW,2021-01-25 13:43:00,999.99,982.08,57.41
+129,5,African American,7,Mens Apparel,3,SE,2021-04-28 12:10:00,45.98,43.17,1.31
+130,8,Asian,4,Electronics,8,SW,2021-08-22 05:02:00,345.67,339.88,9.95
+131,4,White,7,Mens Apparel,5,NE,2021-02-25 17:48:00,45.98,37.51,1.42
+132,7,White,7,Mens Apparel,5,NE,2021-02-06 21:28:00,45.98,38.65,3.62
+133,12,Asian,5,Electronics,3,SE,2021-07-04 19:36:00,999.99,911.53,26.43
+134,12,Asian,2,Mens Apparel,4,SW,2021-10-23 07:35:00,34.56,28.34,2.7
+135,4,White,2,Mens Apparel,1,NE,2021-08-15 15:37:00,34.56,31.45,1.2
+136,10,Pacific Islander,2,Mens Apparel,4,SW,2021-05-04 23:14:00,34.56,33.22,1.33
+137,2,American Indian,6,Kids Toys,2,NW,2021-05-06 13:48:00,45.67,39.83,0.8
+138,3,Pacific Islander,4,Electronics,5,NE,2021-06-12 06:00:00,345.67,331.69,0.96
+139,5,African American,7,Mens Apparel,7,SE,2021-12-07 17:31:00,45.98,44.66,2.68
+140,6,African American,3,Kitchen Appliance,7,SE,2021-01-10 21:28:00,99.99,97.41,1.73
+141,8,Asian,5,Electronics,2,NW,2021-07-20 04:11:00,999.99,951.7,90.06
+142,2,American Indian,8,Kitchen Appliance,4,SW,2021-01-07 17:54:00,65.87,53.17,0.11
+143,1,Asian,6,Kids Toys,1,NE,2021-03-21 20:03:00,45.67,38.35,0.18
+144,6,African American,1,Kids Toys,4,SW,2021-03-14 05:50:00,23.45,21.25,0.12
+145,12,Asian,1,Kids Toys,7,SE,2021-04-17 07:58:00,23.45,22.6,0.58
+146,4,White,1,Kids Toys,5,NE,2021-03-22 22:03:00,23.45,20.26,0.87
+147,9,American Indian,7,Mens Apparel,3,SE,2021-05-31 16:38:00,45.98,40.47,3.68
+148,11,Asian,8,Kitchen Appliance,3,SE,2021-06-29 06:44:00,65.87,54.61,5.33
+149,9,American Indian,8,Kitchen Appliance,1,NE,2021-02-16 12:17:00,65.87,59.52,1.91
+150,4,White,8,Kitchen Appliance,2,NW,2021-08-06 00:47:00,65.87,63.15,3.77
+151,8,Asian,6,Kids Toys,5,NE,2021-04-30 11:27:00,45.67,38.92,0.23
+152,12,Asian,5,Electronics,4,SW,2021-12-21 17:19:00,999.99,869.18,55.58
+153,2,American Indian,6,Kids Toys,6,NW,2021-08-17 03:38:00,45.67,38.51,2.49
+154,1,Asian,5,Electronics,6,NW,2021-03-02 21:25:00,999.99,907.64,36.89
+155,5,African American,8,Kitchen Appliance,4,SW,2021-08-22 21:35:00,65.87,61.41,4.35
+156,7,White,1,Kids Toys,3,SE,2021-09-22 01:21:00,23.45,18.78,0.2
+157,8,Asian,4,Electronics,6,NW,2021-01-21 00:39:00,345.67,337.06,23.99
+158,11,Asian,2,Mens Apparel,1,NE,2021-04-27 11:09:00,34.56,30.92,0.89
+159,11,Asian,1,Kids Toys,1,NE,2021-07-16 08:57:00,23.45,21.94,0.3
+160,5,African American,5,Electronics,8,SW,2021-09-26 04:53:00,999.99,916.39,69.45
+161,2,American Indian,4,Electronics,6,NW,2021-01-14 23:29:00,345.67,331.96,16.43
+162,5,African American,2,Mens Apparel,7,SE,2021-02-01 04:24:00,34.56,32.13,2.64
+163,7,White,1,Kids Toys,4,SW,2021-09-16 14:37:00,23.45,21.97,1.35
+164,8,Asian,6,Kids Toys,5,NE,2021-01-12 10:14:00,45.67,40.82,1.51
+165,11,Asian,7,Mens Apparel,6,NW,2021-02-08 04:50:00,45.98,37.52,2.96
+166,3,Pacific Islander,5,Electronics,4,SW,2021-07-19 19:22:00,999.99,867.14,36.03
+167,7,White,2,Mens Apparel,6,NW,2021-12-10 13:54:00,34.56,27.98,1.77
+168,10,Pacific Islander,7,Mens Apparel,5,NE,2021-02-13 12:00:00,45.98,44.58,3.38
+169,12,Asian,1,Kids Toys,7,SE,2021-02-17 00:19:00,23.45,21.05,1.42
+170,9,American Indian,7,Mens Apparel,6,NW,2021-02-05 12:14:00,45.98,40.09,1.35
+171,10,Pacific Islander,8,Kitchen Appliance,6,NW,2021-10-29 01:01:00,65.87,61.65,5.16
+172,2,American Indian,2,Mens Apparel,7,SE,2021-05-31 03:54:00,34.56,29.96,2.83
+173,12,Asian,5,Electronics,2,NW,2021-09-01 05:52:00,999.99,822.83,33.41
+174,9,American Indian,2,Mens Apparel,6,NW,2021-12-06 22:55:00,34.56,32.91,1.83
+175,6,African American,7,Mens Apparel,2,NW,2021-06-30 11:14:00,45.98,41.72,1.7
+176,5,African American,6,Kids Toys,4,SW,2021-05-19 04:32:00,45.67,43.42,1.9
+177,8,Asian,1,Kids Toys,4,SW,2021-11-18 10:17:00,23.45,19.11,1.77
+178,5,African American,1,Kids Toys,3,SE,2021-07-27 06:06:00,23.45,19.92,1.65
+179,3,Pacific Islander,3,Kitchen Appliance,2,NW,2021-03-11 16:56:00,99.99,87.72,1.06
+180,9,American Indian,4,Electronics,8,SW,2021-06-06 10:03:00,345.67,296.27,14.64
+181,7,White,4,Electronics,3,SE,2021-09-09 01:29:00,345.67,315.67,30.28
+182,8,Asian,8,Kitchen Appliance,8,SW,2021-10-09 17:30:00,65.87,60.61,2.9
+183,12,Asian,5,Electronics,8,SW,2021-04-20 13:56:00,999.99,938.81,88.81
+184,2,American Indian,3,Kitchen Appliance,1,NE,2021-11-16 16:52:00,99.99,89.33,8.91
+185,11,Asian,3,Kitchen Appliance,6,NW,2021-09-25 11:25:00,99.99,81.16,7.65
+186,1,Asian,7,Mens Apparel,6,NW,2021-09-01 17:34:00,45.98,44.95,2.18
+187,8,Asian,7,Mens Apparel,7,SE,2021-08-15 11:28:00,45.98,45.67,0.47
+188,8,Asian,5,Electronics,6,NW,2021-04-07 04:16:00,999.99,914.84,88.42
+189,8,Asian,2,Mens Apparel,2,NW,2021-06-02 01:47:00,34.56,27.67,0.98
+190,10,Pacific Islander,3,Kitchen Appliance,4,SW,2021-08-05 14:04:00,99.99,81.47,5.8
+191,12,Asian,2,Mens Apparel,1,NE,2021-04-09 15:53:00,34.56,34.14,3.38
+192,3,Pacific Islander,2,Mens Apparel,3,SE,2021-05-05 15:13:00,34.56,31.66,1.94
+193,5,African American,1,Kids Toys,5,NE,2021-12-25 05:34:00,23.45,20.53,0.66
+194,1,Asian,1,Kids Toys,5,NE,2021-08-25 01:24:00,23.45,20.55,0.07
+195,12,Asian,7,Mens Apparel,6,NW,2021-07-16 22:20:00,45.98,45.95,0.19
+196,5,African American,3,Kitchen Appliance,5,NE,2021-03-27 18:57:00,99.99,90.47,7.27
+197,3,Pacific Islander,5,Electronics,6,NW,2021-05-21 14:26:00,999.99,824.73,46.93
+198,2,American Indian,2,Mens Apparel,8,SW,2021-07-08 02:43:00,34.56,32.59,2.16
+199,8,Asian,5,Electronics,5,NE,2021-06-03 15:11:00,999.99,968.34,18.88
+200,7,White,7,Mens Apparel,4,SW,2021-10-17 17:13:00,45.98,40.74,3.64
+201,12,Asian,3,Kitchen Appliance,4,SW,2021-11-01 03:11:00,99.99,89.37,7.2
+202,8,Asian,6,Kids Toys,4,SW,2021-07-21 18:31:00,45.67,44.23,0.95
+203,6,African American,1,Kids Toys,4,SW,2021-03-18 05:20:00,23.45,19.51,0.73
+204,8,Asian,1,Kids Toys,6,NW,2021-10-02 18:15:00,23.45,19.01,1.75
+205,8,Asian,2,Mens Apparel,1,NE,2021-04-09 00:35:00,34.56,28.48,2.52
+206,7,White,6,Kids Toys,3,SE,2021-11-15 20:50:00,45.67,37.84,0.75
+207,2,American Indian,6,Kids Toys,6,NW,2021-11-12 06:12:00,45.67,41.19,1.28
+208,6,African American,3,Kitchen Appliance,7,SE,2021-06-29 14:03:00,99.99,98.79,8.32
+209,1,Asian,2,Mens Apparel,3,SE,2021-10-23 16:15:00,34.56,32.73,1.99
+210,6,African American,7,Mens Apparel,6,NW,2021-06-12 08:50:00,45.98,40.69,3.8
+211,1,Asian,3,Kitchen Appliance,8,SW,2021-11-20 09:36:00,99.99,84.25,2.13
+212,2,American Indian,4,Electronics,4,SW,2021-10-11 09:56:00,345.67,312.63,1.45
+213,12,Asian,6,Kids Toys,6,NW,2021-07-22 03:20:00,45.67,37.43,2.0
+214,10,Pacific Islander,4,Electronics,4,SW,2021-11-12 21:40:00,345.67,342.37,29.52
+215,2,American Indian,3,Kitchen Appliance,7,SE,2021-06-16 11:26:00,99.99,86.17,6.67
+216,9,American Indian,4,Electronics,1,NE,2021-10-24 04:50:00,345.67,276.68,8.27
+217,12,Asian,1,Kids Toys,8,SW,2021-08-13 10:53:00,23.45,19.95,1.04
+218,8,Asian,8,Kitchen Appliance,5,NE,2021-10-08 17:56:00,65.87,59.42,5.31
+219,8,Asian,4,Electronics,2,NW,2021-07-11 17:47:00,345.67,314.45,20.34
+220,12,Asian,4,Electronics,8,SW,2021-08-27 12:16:00,345.67,307.15,12.82
+221,9,American Indian,7,Mens Apparel,3,SE,2021-11-27 14:18:00,45.98,37.2,2.09
+222,10,Pacific Islander,5,Electronics,2,NW,2021-01-03 05:31:00,999.99,838.18,46.25
+223,2,American Indian,6,Kids Toys,3,SE,2021-08-22 03:20:00,45.67,39.41,2.89
+224,10,Pacific Islander,3,Kitchen Appliance,3,SE,2021-06-05 10:40:00,99.99,85.6,1.64
+225,2,American Indian,2,Mens Apparel,7,SE,2021-10-22 08:23:00,34.56,28.27,1.46
+226,10,Pacific Islander,8,Kitchen Appliance,5,NE,2021-02-16 23:23:00,65.87,62.31,0.41
+227,11,Asian,5,Electronics,8,SW,2021-05-21 05:47:00,999.99,842.73,76.03
+228,3,Pacific Islander,8,Kitchen Appliance,5,NE,2021-12-03 15:49:00,65.87,55.54,3.14
+229,4,White,4,Electronics,2,NW,2021-09-11 03:42:00,345.67,281.64,27.42
+230,10,Pacific Islander,7,Mens Apparel,7,SE,2021-06-26 11:22:00,45.98,44.99,0.72
+231,12,Asian,2,Mens Apparel,3,SE,2021-03-10 02:43:00,34.56,31.47,3.07
+232,3,Pacific Islander,3,Kitchen Appliance,1,NE,2021-04-08 21:10:00,99.99,92.61,2.67
+233,6,African American,3,Kitchen Appliance,4,SW,2021-07-08 23:06:00,99.99,89.18,3.32
+234,6,African American,7,Mens Apparel,5,NE,2021-02-07 18:28:00,45.98,42.71,3.18
+235,4,White,8,Kitchen Appliance,2,NW,2021-09-25 00:42:00,65.87,65.46,6.36
+236,9,American Indian,2,Mens Apparel,3,SE,2021-05-17 01:18:00,34.56,31.05,1.64
+237,6,African American,6,Kids Toys,2,NW,2021-08-31 23:38:00,45.67,42.66,0.12
+238,4,White,7,Mens Apparel,2,NW,2021-12-25 00:21:00,45.98,40.27,0.15
+239,5,African American,3,Kitchen Appliance,8,SW,2021-02-27 05:11:00,99.99,84.93,3.07
+240,8,Asian,6,Kids Toys,6,NW,2021-10-04 05:41:00,45.67,41.15,3.39
+241,3,Pacific Islander,7,Mens Apparel,3,SE,2021-08-18 11:22:00,45.98,40.49,2.78
+242,4,White,2,Mens Apparel,3,SE,2021-07-11 19:44:00,34.56,29.37,1.12
+243,9,American Indian,7,Mens Apparel,8,SW,2021-11-26 05:48:00,45.98,38.83,0.69
+244,5,African American,2,Mens Apparel,2,NW,2021-05-15 21:49:00,34.56,32.73,0.9
+245,5,African American,3,Kitchen Appliance,4,SW,2021-03-12 12:22:00,99.99,98.08,4.21
+246,4,White,2,Mens Apparel,8,SW,2021-09-18 09:23:00,34.56,31.22,0.97
+247,8,Asian,1,Kids Toys,1,NE,2021-09-10 07:32:00,23.45,23.06,0.77
+248,10,Pacific Islander,4,Electronics,4,SW,2021-06-18 17:09:00,345.67,311.07,22.56
+249,7,White,7,Mens Apparel,1,NE,2021-12-08 07:25:00,45.98,39.52,3.8
+250,5,African American,3,Kitchen Appliance,6,NW,2021-01-12 20:00:00,99.99,97.15,4.79
+251,9,American Indian,7,Mens Apparel,7,SE,2021-08-22 13:31:00,45.98,45.97,1.19
+252,4,White,4,Electronics,7,SE,2021-06-30 06:56:00,345.67,303.0,26.3
+253,7,White,6,Kids Toys,7,SE,2021-06-20 09:33:00,45.67,43.69,0.18
+254,7,White,7,Mens Apparel,1,NE,2021-09-08 12:07:00,45.98,45.35,3.12
+255,11,Asian,4,Electronics,7,SE,2021-04-04 19:40:00,345.67,324.98,17.31
+256,11,Asian,6,Kids Toys,7,SE,2021-05-13 21:39:00,45.67,36.73,1.86
+257,12,Asian,8,Kitchen Appliance,2,NW,2021-09-09 21:46:00,65.87,64.97,1.29
+258,6,African American,8,Kitchen Appliance,3,SE,2021-07-13 22:27:00,65.87,59.43,4.13
+259,2,American Indian,8,Kitchen Appliance,7,SE,2021-12-23 13:05:00,65.87,52.99,4.63
+260,9,American Indian,4,Electronics,5,NE,2021-11-24 07:46:00,345.67,281.65,26.24
+261,10,Pacific Islander,2,Mens Apparel,3,SE,2021-10-03 19:12:00,34.56,29.35,0.64
+262,6,African American,2,Mens Apparel,1,NE,2021-04-21 08:27:00,34.56,34.39,3.04
+263,3,Pacific Islander,4,Electronics,6,NW,2021-08-21 04:27:00,345.67,301.61,13.37
+264,1,Asian,3,Kitchen Appliance,5,NE,2021-05-31 07:37:00,99.99,81.15,8.06
+265,9,American Indian,6,Kids Toys,2,NW,2021-02-09 10:53:00,45.67,42.02,3.74
+266,8,Asian,1,Kids Toys,5,NE,2021-10-07 02:16:00,23.45,22.63,0.42
+267,4,White,3,Kitchen Appliance,6,NW,2021-11-03 09:11:00,99.99,89.64,0.24
+268,12,Asian,5,Electronics,5,NE,2021-10-24 18:26:00,999.99,916.91,82.73
+269,7,White,3,Kitchen Appliance,7,SE,2021-04-22 13:42:00,99.99,84.36,2.7
+270,2,American Indian,6,Kids Toys,3,SE,2021-03-05 16:24:00,45.67,42.97,2.53
+271,11,Asian,8,Kitchen Appliance,3,SE,2021-04-15 12:06:00,65.87,62.03,4.95
+272,10,Pacific Islander,7,Mens Apparel,3,SE,2021-04-13 16:16:00,45.98,40.55,2.06
+273,2,American Indian,8,Kitchen Appliance,2,NW,2021-08-30 05:41:00,65.87,65.74,5.11
+274,3,Pacific Islander,2,Mens Apparel,5,NE,2021-10-10 19:28:00,34.56,28.62,2.08
+275,3,Pacific Islander,7,Mens Apparel,1,NE,2021-01-05 21:10:00,45.98,39.82,3.09
+276,4,White,6,Kids Toys,8,SW,2021-05-13 01:14:00,45.67,42.08,2.77
+277,5,African American,8,Kitchen Appliance,2,NW,2021-02-08 18:37:00,65.87,63.73,5.76
+278,9,American Indian,7,Mens Apparel,2,NW,2021-02-12 04:06:00,45.98,42.3,1.01
+279,4,White,5,Electronics,4,SW,2021-04-23 22:39:00,999.99,962.8,44.55
+280,8,Asian,8,Kitchen Appliance,2,NW,2021-06-28 10:33:00,65.87,53.0,2.06
+281,9,American Indian,2,Mens Apparel,7,SE,2021-07-16 14:08:00,34.56,30.66,2.75
+282,11,Asian,3,Kitchen Appliance,3,SE,2021-01-04 09:08:00,99.99,95.75,1.41
+283,9,American Indian,5,Electronics,5,NE,2021-07-23 20:33:00,999.99,810.41,0.03
+284,2,American Indian,3,Kitchen Appliance,7,SE,2021-11-03 15:34:00,99.99,82.94,4.51
+285,9,American Indian,7,Mens Apparel,4,SW,2021-08-23 20:08:00,45.98,37.14,1.34
+286,8,Asian,7,Mens Apparel,1,NE,2021-08-16 09:55:00,45.98,41.82,1.62
+287,12,Asian,8,Kitchen Appliance,8,SW,2021-07-13 01:03:00,65.87,57.84,4.42
+288,10,Pacific Islander,6,Kids Toys,1,NE,2021-09-02 03:41:00,45.67,38.37,3.57
+289,2,American Indian,7,Mens Apparel,3,SE,2021-07-17 07:10:00,45.98,38.56,2.65
+290,3,Pacific Islander,6,Kids Toys,3,SE,2021-08-29 20:08:00,45.67,37.09,3.2
+291,12,Asian,6,Kids Toys,2,NW,2021-04-05 20:52:00,45.67,40.93,0.01
+292,12,Asian,1,Kids Toys,2,NW,2021-05-28 21:16:00,23.45,23.14,2.03
+293,11,Asian,1,Kids Toys,5,NE,2021-09-22 14:31:00,23.45,21.68,0.65
+294,7,White,6,Kids Toys,5,NE,2021-11-08 18:37:00,45.67,41.68,1.83
+295,7,White,3,Kitchen Appliance,7,SE,2021-04-25 23:21:00,99.99,91.81,0.17
+296,11,Asian,2,Mens Apparel,5,NE,2021-03-26 09:11:00,34.56,28.95,2.53
+297,5,African American,3,Kitchen Appliance,5,NE,2021-04-27 09:50:00,99.99,84.44,1.6
+298,2,American Indian,7,Mens Apparel,2,NW,2021-10-17 11:10:00,45.98,39.43,1.49
+299,12,Asian,6,Kids Toys,6,NW,2021-04-10 12:21:00,45.67,43.4,4.23
+300,10,Pacific Islander,8,Kitchen Appliance,7,SE,2021-05-12 15:06:00,65.87,56.17,0.26
+301,4,White,7,Mens Apparel,5,NE,2021-07-11 00:19:00,45.98,40.82,4.05
+302,8,Asian,6,Kids Toys,5,NE,2021-11-09 03:21:00,45.67,42.29,0.9
+303,4,White,8,Kitchen Appliance,8,SW,2021-07-01 16:56:00,65.87,62.65,0.82
+304,9,American Indian,3,Kitchen Appliance,3,SE,2021-01-07 04:27:00,99.99,99.91,9.72
+305,10,Pacific Islander,3,Kitchen Appliance,6,NW,2021-04-20 08:36:00,99.99,91.62,0.1
+306,12,Asian,5,Electronics,1,NE,2021-12-12 05:13:00,999.99,966.44,44.02
+307,12,Asian,6,Kids Toys,8,SW,2021-05-16 00:05:00,45.67,40.47,1.81
+308,4,White,5,Electronics,1,NE,2021-05-27 02:21:00,999.99,966.76,52.35
+309,2,American Indian,1,Kids Toys,4,SW,2021-05-11 10:08:00,23.45,21.92,0.03
+310,6,African American,3,Kitchen Appliance,6,NW,2021-03-03 06:10:00,99.99,98.43,3.06
+311,5,African American,6,Kids Toys,4,SW,2021-12-10 04:09:00,45.67,36.98,2.42
+312,1,Asian,7,Mens Apparel,1,NE,2021-11-04 12:50:00,45.98,39.22,1.65
+313,4,White,4,Electronics,7,SE,2021-01-08 08:59:00,345.67,307.2,23.39
+314,6,African American,1,Kids Toys,5,NE,2021-08-29 02:17:00,23.45,22.57,0.49
+315,1,Asian,3,Kitchen Appliance,5,NE,2021-09-12 02:44:00,99.99,84.31,7.25
+316,6,African American,4,Electronics,6,NW,2021-10-14 14:50:00,345.67,314.0,13.36
+317,12,Asian,7,Mens Apparel,7,SE,2021-08-31 05:19:00,45.98,44.27,3.4
+318,2,American Indian,6,Kids Toys,8,SW,2021-08-11 16:01:00,45.67,38.31,0.34
+319,1,Asian,4,Electronics,7,SE,2021-01-30 05:08:00,345.67,342.39,20.27
+320,1,Asian,2,Mens Apparel,4,SW,2021-12-19 06:07:00,34.56,30.93,1.03
+321,9,American Indian,4,Electronics,3,SE,2021-09-11 06:45:00,345.67,306.53,3.94
+322,2,American Indian,1,Kids Toys,8,SW,2021-08-25 20:44:00,23.45,22.99,0.31
+323,11,Asian,5,Electronics,5,NE,2021-08-06 20:23:00,999.99,814.53,28.37
+324,8,Asian,6,Kids Toys,6,NW,2021-04-17 18:56:00,45.67,38.34,0.18
+325,6,African American,1,Kids Toys,1,NE,2021-07-26 22:54:00,23.45,21.0,1.1
+326,7,White,8,Kitchen Appliance,2,NW,2021-04-09 17:19:00,65.87,61.85,3.39
+327,10,Pacific Islander,2,Mens Apparel,1,NE,2021-03-28 16:33:00,34.56,33.48,2.2
+328,11,Asian,6,Kids Toys,4,SW,2021-04-20 06:19:00,45.67,40.4,0.8
+329,5,African American,8,Kitchen Appliance,4,SW,2021-06-20 05:59:00,65.87,54.59,1.39
+330,10,Pacific Islander,6,Kids Toys,8,SW,2021-05-28 10:11:00,45.67,41.74,2.08
+331,8,Asian,1,Kids Toys,5,NE,2021-09-17 05:08:00,23.45,22.82,1.63
+332,3,Pacific Islander,5,Electronics,7,SE,2021-10-06 16:48:00,999.99,812.99,73.31
+333,1,Asian,4,Electronics,1,NE,2021-03-27 14:53:00,345.67,320.86,25.04
+334,9,American Indian,1,Kids Toys,3,SE,2021-12-15 13:22:00,23.45,20.82,0.5
+335,5,African American,4,Electronics,3,SE,2021-04-17 04:50:00,345.67,325.42,8.49
+336,10,Pacific Islander,4,Electronics,2,NW,2021-10-01 18:32:00,345.67,286.64,23.05
+337,1,Asian,2,Mens Apparel,5,NE,2021-10-20 02:25:00,34.56,34.09,0.44
+338,1,Asian,3,Kitchen Appliance,5,NE,2021-03-06 13:52:00,99.99,90.17,2.16
+339,11,Asian,5,Electronics,5,NE,2021-06-15 01:16:00,999.99,878.64,28.34
+340,1,Asian,5,Electronics,2,NW,2021-02-24 22:24:00,999.99,938.91,44.51
+341,11,Asian,5,Electronics,7,SE,2021-07-08 05:22:00,999.99,851.19,0.9
+342,9,American Indian,8,Kitchen Appliance,3,SE,2021-07-16 07:01:00,65.87,56.86,2.67
+343,9,American Indian,2,Mens Apparel,5,NE,2021-08-02 04:45:00,34.56,27.93,0.86
+344,5,African American,7,Mens Apparel,1,NE,2021-08-29 01:52:00,45.98,37.72,0.79
+345,7,White,3,Kitchen Appliance,8,SW,2021-12-27 01:34:00,99.99,86.01,3.17
+346,1,Asian,8,Kitchen Appliance,3,SE,2021-12-03 21:38:00,65.87,53.44,2.41
+347,4,White,7,Mens Apparel,8,SW,2021-07-03 02:40:00,45.98,39.5,0.79
+348,10,Pacific Islander,8,Kitchen Appliance,5,NE,2021-09-27 04:03:00,65.87,55.08,2.53
+349,2,American Indian,7,Mens Apparel,7,SE,2021-08-16 18:38:00,45.98,40.46,0.12
+350,4,White,3,Kitchen Appliance,4,SW,2021-01-25 11:47:00,99.99,99.71,5.19
+351,1,Asian,1,Kids Toys,7,SE,2021-10-02 19:29:00,23.45,22.35,0.65
+352,6,African American,3,Kitchen Appliance,8,SW,2021-05-12 12:06:00,99.99,96.17,6.35
+353,11,Asian,7,Mens Apparel,4,SW,2021-08-08 23:16:00,45.98,44.37,3.93
+354,9,American Indian,7,Mens Apparel,6,NW,2021-05-09 00:32:00,45.98,37.54,1.26
+355,5,African American,1,Kids Toys,2,NW,2021-09-08 23:16:00,23.45,19.77,0.34
+356,9,American Indian,5,Electronics,2,NW,2021-10-12 13:10:00,999.99,831.36,60.06
+357,12,Asian,5,Electronics,8,SW,2021-09-24 08:04:00,999.99,921.93,39.72
+358,8,Asian,7,Mens Apparel,6,NW,2021-07-24 01:41:00,45.98,39.8,1.75
+359,10,Pacific Islander,8,Kitchen Appliance,2,NW,2021-04-29 06:51:00,65.87,54.72,4.82
+360,9,American Indian,5,Electronics,7,SE,2021-05-10 10:08:00,999.99,819.76,43.11
+361,3,Pacific Islander,4,Electronics,8,SW,2021-02-27 12:32:00,345.67,313.22,4.42
+362,9,American Indian,1,Kids Toys,1,NE,2021-02-18 04:25:00,23.45,18.78,0.89
+363,12,Asian,7,Mens Apparel,6,NW,2021-08-26 23:16:00,45.98,41.81,1.06
+364,5,African American,5,Electronics,8,SW,2021-01-19 01:16:00,999.99,809.86,2.35
+365,6,African American,6,Kids Toys,5,NE,2021-12-06 23:09:00,45.67,39.97,3.99
+366,9,American Indian,4,Electronics,1,NE,2021-12-08 07:41:00,345.67,344.01,19.58
+367,3,Pacific Islander,8,Kitchen Appliance,4,SW,2021-06-25 07:07:00,65.87,58.7,5.3
+368,1,Asian,5,Electronics,6,NW,2021-03-07 07:12:00,999.99,880.11,36.7
+369,11,Asian,5,Electronics,7,SE,2021-07-30 15:49:00,999.99,915.23,48.51
+370,9,American Indian,5,Electronics,6,NW,2021-05-06 06:31:00,999.99,958.77,71.11
+371,9,American Indian,8,Kitchen Appliance,1,NE,2021-08-21 19:10:00,65.87,63.48,2.54
+372,10,Pacific Islander,5,Electronics,8,SW,2021-02-08 05:34:00,999.99,955.59,73.82
+373,3,Pacific Islander,3,Kitchen Appliance,7,SE,2021-11-06 00:12:00,99.99,91.36,1.47
+374,9,American Indian,4,Electronics,8,SW,2021-07-29 12:58:00,345.67,278.06,14.5
+375,6,African American,7,Mens Apparel,1,NE,2021-01-17 19:41:00,45.98,42.39,0.94
+376,3,Pacific Islander,3,Kitchen Appliance,8,SW,2021-07-06 14:25:00,99.99,84.52,0.79
+377,10,Pacific Islander,3,Kitchen Appliance,8,SW,2021-03-08 22:53:00,99.99,91.71,6.88
+378,8,Asian,7,Mens Apparel,7,SE,2021-05-29 06:36:00,45.98,41.64,0.85
+379,7,White,1,Kids Toys,2,NW,2021-03-05 08:40:00,23.45,19.54,1.07
+380,10,Pacific Islander,6,Kids Toys,3,SE,2021-03-08 00:03:00,45.67,44.76,1.74
+381,1,Asian,5,Electronics,8,SW,2021-04-18 21:41:00,999.99,947.63,21.71
+382,5,African American,7,Mens Apparel,3,SE,2021-06-24 18:14:00,45.98,45.39,2.04
+383,9,American Indian,5,Electronics,4,SW,2021-11-18 10:26:00,999.99,934.71,11.77
+384,12,Asian,1,Kids Toys,4,SW,2021-04-25 11:30:00,23.45,22.57,1.29
+385,4,White,5,Electronics,7,SE,2021-04-28 21:32:00,999.99,960.21,30.49
+386,3,Pacific Islander,3,Kitchen Appliance,8,SW,2021-03-23 19:56:00,99.99,93.15,1.28
+387,10,Pacific Islander,8,Kitchen Appliance,7,SE,2021-05-16 12:08:00,65.87,54.81,4.62
+388,2,American Indian,3,Kitchen Appliance,4,SW,2021-01-23 07:09:00,99.99,97.69,5.29
+389,9,American Indian,2,Mens Apparel,3,SE,2021-09-04 16:03:00,34.56,34.3,1.26
+390,3,Pacific Islander,1,Kids Toys,6,NW,2021-09-25 09:25:00,23.45,22.54,0.4
+391,6,African American,7,Mens Apparel,8,SW,2021-04-07 07:55:00,45.98,38.88,2.41
+392,9,American Indian,3,Kitchen Appliance,5,NE,2021-06-11 15:08:00,99.99,85.79,0.68
+393,9,American Indian,3,Kitchen Appliance,2,NW,2021-11-29 01:31:00,99.99,93.52,1.71
+394,12,Asian,1,Kids Toys,4,SW,2021-12-05 10:25:00,23.45,21.32,1.37
+395,5,African American,5,Electronics,4,SW,2021-07-30 08:05:00,999.99,906.24,38.06
+396,8,Asian,7,Mens Apparel,2,NW,2021-10-26 09:18:00,45.98,38.68,2.25
+397,8,Asian,4,Electronics,8,SW,2021-04-17 00:14:00,345.67,293.26,6.42
+398,6,African American,4,Electronics,4,SW,2021-03-28 21:17:00,345.67,331.37,3.67
+399,8,Asian,2,Mens Apparel,1,NE,2021-04-18 04:29:00,34.56,30.53,1.36
+400,1,Asian,4,Electronics,7,SE,2021-01-22 09:54:00,345.67,342.74,0.52
+401,2,American Indian,3,Kitchen Appliance,8,SW,2021-11-09 17:06:00,99.99,85.31,5.22
+402,9,American Indian,4,Electronics,3,SE,2021-11-30 15:33:00,345.67,343.24,27.45
+403,6,African American,8,Kitchen Appliance,2,NW,2021-11-21 11:29:00,65.87,59.79,1.36
+404,2,American Indian,4,Electronics,3,SE,2021-05-02 05:14:00,345.67,332.29,19.13
+405,5,African American,2,Mens Apparel,7,SE,2021-10-09 09:38:00,34.56,33.1,0.77
+406,6,African American,4,Electronics,7,SE,2021-02-14 11:27:00,345.67,295.01,14.41
+407,4,White,7,Mens Apparel,8,SW,2021-12-08 23:46:00,45.98,37.55,0.42
+408,5,African American,7,Mens Apparel,2,NW,2021-07-26 09:06:00,45.98,42.46,2.81
+409,7,White,8,Kitchen Appliance,1,NE,2021-10-03 19:24:00,65.87,61.5,0.56
+410,7,White,3,Kitchen Appliance,6,NW,2021-02-21 22:00:00,99.99,90.56,7.47
+411,9,American Indian,1,Kids Toys,4,SW,2021-04-05 19:33:00,23.45,22.33,0.52
+412,3,Pacific Islander,3,Kitchen Appliance,5,NE,2021-01-16 09:15:00,99.99,82.24,3.64
+413,7,White,8,Kitchen Appliance,7,SE,2021-12-24 19:29:00,65.87,63.22,6.04
+414,8,Asian,3,Kitchen Appliance,6,NW,2021-11-14 04:59:00,99.99,88.64,1.16
+415,1,Asian,2,Mens Apparel,2,NW,2021-08-06 14:34:00,34.56,29.88,2.44
+416,12,Asian,6,Kids Toys,1,NE,2021-12-28 01:19:00,45.67,42.54,0.12
+417,10,Pacific Islander,5,Electronics,6,NW,2021-01-04 06:14:00,999.99,806.23,4.32
+418,5,African American,6,Kids Toys,6,NW,2021-11-28 13:36:00,45.67,44.2,2.36
+419,6,African American,6,Kids Toys,6,NW,2021-10-19 15:15:00,45.67,44.94,2.86
+420,11,Asian,5,Electronics,3,SE,2021-07-12 03:33:00,999.99,901.94,15.04
+421,6,African American,1,Kids Toys,8,SW,2021-10-26 20:42:00,23.45,23.25,2.12
+422,4,White,5,Electronics,8,SW,2021-03-16 21:45:00,999.99,939.87,19.28
+423,10,Pacific Islander,3,Kitchen Appliance,4,SW,2021-08-24 05:20:00,99.99,94.09,4.24
+424,3,Pacific Islander,7,Mens Apparel,3,SE,2021-12-18 08:58:00,45.98,41.87,3.84
+425,1,Asian,7,Mens Apparel,5,NE,2021-08-13 05:02:00,45.98,40.57,3.21
+426,2,American Indian,5,Electronics,4,SW,2021-10-11 17:17:00,999.99,846.76,42.26
+427,3,Pacific Islander,5,Electronics,7,SE,2021-07-10 06:57:00,999.99,936.42,61.89
+428,11,Asian,6,Kids Toys,1,NE,2021-01-18 08:46:00,45.67,38.79,1.98
+429,8,Asian,2,Mens Apparel,5,NE,2021-03-23 15:13:00,34.56,32.8,1.23
+430,2,American Indian,5,Electronics,1,NE,2021-10-05 08:08:00,999.99,933.3,25.57
+431,4,White,6,Kids Toys,1,NE,2021-01-25 22:54:00,45.67,43.72,0.13
+432,2,American Indian,5,Electronics,2,NW,2021-12-11 21:58:00,999.99,817.58,32.11
+433,12,Asian,3,Kitchen Appliance,5,NE,2021-11-08 14:42:00,99.99,86.4,7.13
+434,12,Asian,5,Electronics,3,SE,2021-02-03 06:20:00,999.99,907.45,53.03
+435,4,White,2,Mens Apparel,3,SE,2021-06-09 07:54:00,34.56,31.55,2.04
+436,9,American Indian,5,Electronics,8,SW,2021-08-31 12:59:00,999.99,959.48,70.12
+437,7,White,7,Mens Apparel,4,SW,2021-08-23 15:36:00,45.98,39.92,3.92
+438,1,Asian,4,Electronics,6,NW,2021-04-24 04:33:00,345.67,312.86,18.17
+439,12,Asian,6,Kids Toys,3,SE,2021-11-02 00:08:00,45.67,42.54,3.11
+440,7,White,2,Mens Apparel,3,SE,2021-04-19 23:56:00,34.56,28.64,0.99
+441,6,African American,3,Kitchen Appliance,1,NE,2021-04-10 17:46:00,99.99,86.1,4.65
+442,12,Asian,1,Kids Toys,6,NW,2021-10-16 14:53:00,23.45,19.97,0.77
+443,1,Asian,6,Kids Toys,5,NE,2021-03-25 04:38:00,45.67,40.61,3.66
+444,8,Asian,5,Electronics,7,SE,2021-11-21 00:48:00,999.99,815.19,75.8
+445,1,Asian,4,Electronics,2,NW,2021-02-23 13:52:00,345.67,343.11,5.67
+446,2,American Indian,3,Kitchen Appliance,1,NE,2021-10-28 03:26:00,99.99,84.7,6.87
+447,5,African American,1,Kids Toys,3,SE,2021-07-01 00:28:00,23.45,20.03,1.0
+448,6,African American,7,Mens Apparel,2,NW,2021-01-11 06:52:00,45.98,42.75,1.75
+449,2,American Indian,3,Kitchen Appliance,1,NE,2021-09-25 07:30:00,99.99,99.79,1.3
+450,5,African American,5,Electronics,3,SE,2021-06-21 20:29:00,999.99,965.18,14.31
+451,5,African American,2,Mens Apparel,6,NW,2021-05-14 06:55:00,34.56,31.26,2.17
+452,11,Asian,5,Electronics,1,NE,2021-12-12 14:20:00,999.99,804.85,79.05
+453,5,African American,8,Kitchen Appliance,5,NE,2021-02-11 00:45:00,65.87,65.09,3.94
+454,12,Asian,7,Mens Apparel,6,NW,2021-03-02 08:16:00,45.98,45.11,3.72
+455,11,Asian,2,Mens Apparel,7,SE,2021-02-25 09:25:00,34.56,31.61,0.36
+456,7,White,4,Electronics,8,SW,2021-04-09 05:16:00,345.67,339.14,21.63
+457,7,White,6,Kids Toys,1,NE,2021-09-20 04:16:00,45.67,41.89,3.48
+458,2,American Indian,8,Kitchen Appliance,3,SE,2021-11-16 05:02:00,65.87,61.87,4.3
+459,11,Asian,6,Kids Toys,2,NW,2021-07-04 13:38:00,45.67,39.19,3.81
+460,6,African American,2,Mens Apparel,2,NW,2021-08-31 23:33:00,34.56,30.09,0.34
+461,4,White,7,Mens Apparel,1,NE,2021-02-05 17:09:00,45.98,37.93,3.27
+462,2,American Indian,4,Electronics,7,SE,2021-06-03 08:06:00,345.67,306.8,2.71
+463,3,Pacific Islander,7,Mens Apparel,8,SW,2021-03-19 01:53:00,45.98,37.77,3.28
+464,10,Pacific Islander,6,Kids Toys,1,NE,2021-09-27 02:02:00,45.67,39.33,0.37
+465,6,African American,7,Mens Apparel,4,SW,2021-10-30 00:50:00,45.98,44.64,2.45
+466,11,Asian,5,Electronics,1,NE,2021-06-03 13:24:00,999.99,873.77,34.56
+467,4,White,1,Kids Toys,8,SW,2021-11-08 19:47:00,23.45,22.28,0.36
+468,2,American Indian,8,Kitchen Appliance,3,SE,2021-02-17 13:10:00,65.87,54.69,3.76
+469,12,Asian,3,Kitchen Appliance,3,SE,2021-05-20 12:06:00,99.99,80.52,7.97
+470,10,Pacific Islander,3,Kitchen Appliance,3,SE,2021-08-24 02:24:00,99.99,81.39,7.38
+471,2,American Indian,8,Kitchen Appliance,6,NW,2021-04-27 16:14:00,65.87,57.71,3.6
+472,1,Asian,2,Mens Apparel,7,SE,2021-11-21 11:53:00,34.56,34.35,3.15
+473,9,American Indian,3,Kitchen Appliance,2,NW,2021-03-25 18:53:00,99.99,89.81,6.38
+474,5,African American,7,Mens Apparel,3,SE,2021-11-14 05:57:00,45.98,42.29,4.13
+475,6,African American,7,Mens Apparel,7,SE,2021-04-07 05:57:00,45.98,39.27,3.17
+476,2,American Indian,1,Kids Toys,1,NE,2021-08-29 13:36:00,23.45,23.22,0.77
+477,8,Asian,7,Mens Apparel,1,NE,2021-05-20 07:16:00,45.98,39.28,2.43
+478,4,White,3,Kitchen Appliance,8,SW,2021-07-11 19:37:00,99.99,87.16,2.83
+479,5,African American,1,Kids Toys,2,NW,2021-09-06 04:29:00,23.45,23.41,2.28
+480,9,American Indian,3,Kitchen Appliance,3,SE,2021-03-07 04:25:00,99.99,87.32,5.59
+481,7,White,6,Kids Toys,8,SW,2021-12-09 16:49:00,45.67,44.72,0.71
+482,7,White,2,Mens Apparel,4,SW,2021-06-12 10:47:00,34.56,33.8,2.61
+483,10,Pacific Islander,6,Kids Toys,7,SE,2021-08-05 06:10:00,45.67,40.96,0.81
+484,1,Asian,1,Kids Toys,3,SE,2021-09-09 01:40:00,23.45,22.99,1.49
+485,6,African American,5,Electronics,6,NW,2021-01-14 22:02:00,999.99,800.05,5.37
+486,4,White,8,Kitchen Appliance,8,SW,2021-11-04 07:36:00,65.87,64.22,0.99
+487,1,Asian,8,Kitchen Appliance,5,NE,2021-09-12 01:00:00,65.87,63.69,6.21
+488,8,Asian,8,Kitchen Appliance,1,NE,2021-11-20 04:55:00,65.87,65.04,0.73
+489,10,Pacific Islander,4,Electronics,5,NE,2021-08-14 06:26:00,345.67,322.4,14.75
+490,4,White,8,Kitchen Appliance,8,SW,2021-07-07 01:36:00,65.87,61.2,0.21
+491,9,American Indian,3,Kitchen Appliance,1,NE,2021-08-19 11:30:00,99.99,82.6,3.25
+492,5,African American,8,Kitchen Appliance,3,SE,2021-04-11 14:32:00,65.87,54.84,0.72
+493,12,Asian,6,Kids Toys,5,NE,2021-06-15 16:35:00,45.67,44.61,0.75
+494,11,Asian,6,Kids Toys,2,NW,2021-05-15 18:30:00,45.67,42.32,2.39
+495,2,American Indian,7,Mens Apparel,4,SW,2021-03-30 05:39:00,45.98,42.32,1.51
+496,6,African American,8,Kitchen Appliance,2,NW,2021-12-06 02:29:00,65.87,52.99,2.01
+497,1,Asian,7,Mens Apparel,6,NW,2021-03-12 23:00:00,45.98,37.4,2.11
+498,1,Asian,5,Electronics,1,NE,2021-02-18 05:47:00,999.99,936.99,64.95
+499,5,African American,8,Kitchen Appliance,7,SE,2021-09-02 04:30:00,65.87,59.57,1.25
+500,4,White,2,Mens Apparel,2,NW,2021-12-02 00:50:00,34.56,32.06,1.0
+501,1,Asian,8,Kitchen Appliance,5,NE,2021-03-05 10:01:00,65.87,61.86,3.71
+502,9,American Indian,5,Electronics,6,NW,2021-02-27 13:43:00,999.99,876.27,82.37
+503,11,Asian,5,Electronics,1,NE,2021-11-25 02:18:00,999.99,851.93,30.13
+504,8,Asian,3,Kitchen Appliance,5,NE,2021-02-03 06:11:00,99.99,97.91,6.89
+505,5,African American,3,Kitchen Appliance,7,SE,2021-08-14 09:19:00,99.99,91.31,6.54
+506,11,Asian,2,Mens Apparel,1,NE,2021-03-07 16:35:00,34.56,31.34,0.61
+507,9,American Indian,6,Kids Toys,3,SE,2021-04-29 09:37:00,45.67,37.24,1.1
+508,11,Asian,1,Kids Toys,8,SW,2021-09-27 05:16:00,23.45,18.83,1.5
+509,6,African American,1,Kids Toys,2,NW,2021-03-23 04:38:00,23.45,20.37,1.54
+510,12,Asian,8,Kitchen Appliance,3,SE,2021-03-10 22:20:00,65.87,54.63,3.17
+511,11,Asian,2,Mens Apparel,2,NW,2021-02-13 01:49:00,34.56,30.98,2.87
+512,5,African American,3,Kitchen Appliance,5,NE,2021-08-11 05:32:00,99.99,81.91,1.74
+513,5,African American,6,Kids Toys,8,SW,2021-01-19 08:03:00,45.67,38.0,0.49
+514,3,Pacific Islander,4,Electronics,3,SE,2021-04-30 02:45:00,345.67,278.65,23.1
+515,9,American Indian,7,Mens Apparel,7,SE,2021-02-16 04:26:00,45.98,38.28,3.62
+516,10,Pacific Islander,4,Electronics,5,NE,2021-09-28 22:20:00,345.67,317.35,14.92
+517,9,American Indian,6,Kids Toys,7,SE,2021-07-19 07:43:00,45.67,44.03,1.82
+518,7,White,3,Kitchen Appliance,1,NE,2021-10-19 17:46:00,99.99,82.57,0.65
+519,6,African American,2,Mens Apparel,4,SW,2021-10-23 03:46:00,34.56,29.5,0.05
+520,9,American Indian,8,Kitchen Appliance,7,SE,2021-04-21 16:32:00,65.87,61.42,0.29
+521,4,White,2,Mens Apparel,2,NW,2021-08-08 20:51:00,34.56,31.28,2.23
+522,9,American Indian,8,Kitchen Appliance,3,SE,2021-08-26 05:02:00,65.87,56.13,3.48
+523,1,Asian,1,Kids Toys,5,NE,2021-10-06 05:10:00,23.45,22.65,1.74
+524,1,Asian,1,Kids Toys,7,SE,2021-04-14 07:42:00,23.45,21.4,0.11
+525,8,Asian,8,Kitchen Appliance,8,SW,2021-12-24 14:09:00,65.87,62.12,0.66
+526,2,American Indian,5,Electronics,1,NE,2021-08-19 14:32:00,999.99,823.06,19.27
+527,5,African American,7,Mens Apparel,4,SW,2021-11-19 15:36:00,45.98,39.74,3.83
+528,4,White,5,Electronics,7,SE,2021-03-23 06:02:00,999.99,953.72,21.13
+529,7,White,1,Kids Toys,4,SW,2021-07-13 13:57:00,23.45,20.89,1.9
+530,12,Asian,7,Mens Apparel,4,SW,2021-09-07 06:52:00,45.98,38.8,3.67
+531,5,African American,5,Electronics,5,NE,2021-08-10 19:14:00,999.99,951.97,12.31
+532,1,Asian,6,Kids Toys,1,NE,2021-03-14 15:55:00,45.67,45.04,3.62
+533,6,African American,7,Mens Apparel,2,NW,2021-12-15 23:58:00,45.98,39.25,0.06
+534,4,White,4,Electronics,8,SW,2021-11-04 12:10:00,345.67,287.11,14.77
+535,3,Pacific Islander,2,Mens Apparel,1,NE,2021-04-14 03:07:00,34.56,32.08,0.38
+536,1,Asian,7,Mens Apparel,6,NW,2021-10-19 11:39:00,45.98,44.99,0.53
+537,11,Asian,2,Mens Apparel,6,NW,2021-08-18 06:38:00,34.56,28.07,2.54
+538,6,African American,6,Kids Toys,1,NE,2021-04-30 06:33:00,45.67,45.64,1.37
+539,3,Pacific Islander,5,Electronics,7,SE,2021-07-06 07:56:00,999.99,911.82,65.02
+540,2,American Indian,1,Kids Toys,1,NE,2021-06-03 17:25:00,23.45,21.41,0.3
+541,1,Asian,5,Electronics,8,SW,2021-11-03 14:31:00,999.99,860.62,4.39
+542,10,Pacific Islander,4,Electronics,8,SW,2021-01-01 14:00:00,345.67,319.42,3.47
+543,5,African American,3,Kitchen Appliance,1,NE,2021-01-02 08:29:00,99.99,90.44,2.29
+544,3,Pacific Islander,4,Electronics,2,NW,2021-05-01 00:21:00,345.67,278.8,3.18
+545,6,African American,4,Electronics,7,SE,2021-05-08 01:48:00,345.67,301.57,3.19
+546,12,Asian,2,Mens Apparel,2,NW,2021-11-24 22:14:00,34.56,33.71,1.41
+547,9,American Indian,5,Electronics,6,NW,2021-03-10 18:04:00,999.99,957.13,65.36
+548,10,Pacific Islander,8,Kitchen Appliance,2,NW,2021-11-30 04:12:00,65.87,64.51,6.25
+549,9,American Indian,2,Mens Apparel,2,NW,2021-02-25 22:47:00,34.56,34.29,1.27
+550,7,White,4,Electronics,3,SE,2021-10-13 01:45:00,345.67,314.52,14.94
+551,5,African American,6,Kids Toys,1,NE,2021-04-06 23:00:00,45.67,42.45,3.81
+552,6,African American,3,Kitchen Appliance,2,NW,2021-06-24 09:29:00,99.99,91.12,5.02
+553,12,Asian,4,Electronics,2,NW,2021-06-15 11:23:00,345.67,331.88,21.98
+554,7,White,8,Kitchen Appliance,4,SW,2021-04-20 02:46:00,65.87,65.8,3.48
+555,5,African American,2,Mens Apparel,1,NE,2021-01-24 19:50:00,34.56,30.02,1.74
+556,7,White,2,Mens Apparel,2,NW,2021-08-06 11:16:00,34.56,30.3,0.63
+557,8,Asian,1,Kids Toys,7,SE,2021-04-03 05:48:00,23.45,23.27,1.72
+558,7,White,6,Kids Toys,1,NE,2021-06-25 13:47:00,45.67,40.8,1.4
+559,2,American Indian,4,Electronics,7,SE,2021-12-20 23:35:00,345.67,293.61,26.9
+560,9,American Indian,6,Kids Toys,8,SW,2021-01-27 06:47:00,45.67,40.54,3.55
+561,3,Pacific Islander,1,Kids Toys,7,SE,2021-06-07 01:00:00,23.45,20.82,1.69
+562,9,American Indian,1,Kids Toys,6,NW,2021-08-17 15:35:00,23.45,21.15,2.1
+563,8,Asian,7,Mens Apparel,3,SE,2021-09-17 12:07:00,45.98,44.46,2.72
+564,8,Asian,5,Electronics,7,SE,2022-01-01 03:31:00,999.99,987.5,61.98
+565,12,Asian,6,Kids Toys,5,NE,2021-07-24 04:33:00,45.67,44.88,0.76
+566,9,American Indian,4,Electronics,4,SW,2021-09-27 08:59:00,345.67,338.16,12.76
+567,4,White,6,Kids Toys,7,SE,2021-12-24 01:06:00,45.67,37.57,1.2
+568,2,American Indian,1,Kids Toys,4,SW,2021-05-28 08:50:00,23.45,20.61,1.43
+569,12,Asian,7,Mens Apparel,8,SW,2021-01-28 11:35:00,45.98,40.48,3.16
+570,2,American Indian,7,Mens Apparel,7,SE,2021-12-29 01:33:00,45.98,44.02,1.77
+571,10,Pacific Islander,4,Electronics,3,SE,2021-09-29 10:14:00,345.67,291.77,18.4
+572,8,Asian,6,Kids Toys,7,SE,2021-08-03 10:07:00,45.67,44.44,2.68
+573,6,African American,5,Electronics,8,SW,2021-06-12 17:55:00,999.99,927.01,10.76
+574,4,White,6,Kids Toys,1,NE,2021-03-08 00:17:00,45.67,38.73,1.88
+575,8,Asian,2,Mens Apparel,2,NW,2021-05-19 09:15:00,34.56,32.32,1.31
+576,3,Pacific Islander,2,Mens Apparel,3,SE,2021-05-01 17:19:00,34.56,31.94,1.38
+577,12,Asian,1,Kids Toys,5,NE,2021-08-30 21:16:00,23.45,21.54,1.2
+578,5,African American,1,Kids Toys,2,NW,2021-07-04 20:06:00,23.45,18.82,0.31
+579,3,Pacific Islander,5,Electronics,8,SW,2021-05-09 12:47:00,999.99,988.18,77.11
+580,4,White,6,Kids Toys,4,SW,2021-03-06 09:36:00,45.67,43.97,3.88
+581,6,African American,7,Mens Apparel,3,SE,2021-11-07 17:08:00,45.98,38.22,3.39
+582,1,Asian,2,Mens Apparel,2,NW,2021-10-27 11:50:00,34.56,29.87,1.05
+583,9,American Indian,6,Kids Toys,7,SE,2021-04-28 15:26:00,45.67,42.56,2.54
+584,12,Asian,2,Mens Apparel,7,SE,2021-02-13 11:02:00,34.56,30.77,1.63
+585,2,American Indian,3,Kitchen Appliance,7,SE,2021-12-12 02:34:00,99.99,91.08,3.63
+586,12,Asian,8,Kitchen Appliance,5,NE,2021-02-05 04:59:00,65.87,62.46,4.44
+587,1,Asian,8,Kitchen Appliance,6,NW,2021-09-20 03:33:00,65.87,54.78,3.68
+588,4,White,8,Kitchen Appliance,7,SE,2021-12-06 23:17:00,65.87,64.3,2.63
+589,7,White,3,Kitchen Appliance,8,SW,2021-08-02 15:19:00,99.99,85.17,0.56
+590,3,Pacific Islander,3,Kitchen Appliance,6,NW,2021-03-19 09:22:00,99.99,88.62,5.99
+591,8,Asian,2,Mens Apparel,3,SE,2021-11-09 20:44:00,34.56,32.84,0.22
+592,5,African American,7,Mens Apparel,2,NW,2021-01-20 06:59:00,45.98,44.74,3.59
+593,9,American Indian,1,Kids Toys,2,NW,2021-05-11 09:18:00,23.45,20.9,1.81
+594,8,Asian,1,Kids Toys,6,NW,2021-10-09 14:04:00,23.45,22.1,2.09
+595,3,Pacific Islander,3,Kitchen Appliance,8,SW,2021-01-20 05:32:00,99.99,96.4,9.58
+596,2,American Indian,5,Electronics,2,NW,2021-09-14 08:42:00,999.99,916.13,2.68
+597,7,White,1,Kids Toys,3,SE,2021-02-03 02:37:00,23.45,23.4,0.17
+598,2,American Indian,4,Electronics,8,SW,2021-06-16 01:01:00,345.67,314.22,1.13
+599,2,American Indian,8,Kitchen Appliance,8,SW,2021-07-15 18:46:00,65.87,65.55,5.14
+600,3,Pacific Islander,7,Mens Apparel,8,SW,2021-10-22 00:48:00,45.98,43.22,0.49
+601,3,Pacific Islander,2,Mens Apparel,5,NE,2021-04-09 08:03:00,34.56,33.3,1.35
+602,5,African American,4,Electronics,7,SE,2021-02-26 23:27:00,345.67,338.19,25.2
+603,8,Asian,6,Kids Toys,6,NW,2021-09-20 06:11:00,45.67,38.27,1.99
+604,8,Asian,2,Mens Apparel,2,NW,2021-01-29 23:16:00,34.56,27.71,2.49
+605,12,Asian,6,Kids Toys,2,NW,2021-02-05 22:50:00,45.67,43.97,4.07
+606,3,Pacific Islander,4,Electronics,5,NE,2021-09-14 17:44:00,345.67,295.53,14.98
+607,10,Pacific Islander,2,Mens Apparel,3,SE,2021-08-31 07:37:00,34.56,30.44,0.39
+608,1,Asian,1,Kids Toys,7,SE,2021-11-11 07:22:00,23.45,21.04,1.58
+609,4,White,6,Kids Toys,6,NW,2021-07-18 18:52:00,45.67,39.21,2.43
+610,7,White,3,Kitchen Appliance,5,NE,2021-09-17 17:25:00,99.99,86.1,5.43
+611,6,African American,6,Kids Toys,8,SW,2021-04-25 16:20:00,45.67,44.52,0.79
+612,5,African American,1,Kids Toys,1,NE,2021-04-13 09:10:00,23.45,20.45,1.37
+613,3,Pacific Islander,6,Kids Toys,3,SE,2021-04-24 10:40:00,45.67,40.24,0.47
+614,6,African American,2,Mens Apparel,1,NE,2021-11-24 08:09:00,34.56,31.22,0.44
+615,12,Asian,7,Mens Apparel,1,NE,2021-07-13 09:43:00,45.98,38.69,2.92
+616,2,American Indian,8,Kitchen Appliance,8,SW,2021-11-01 04:35:00,65.87,59.92,2.41
+617,6,African American,8,Kitchen Appliance,5,NE,2021-03-20 09:15:00,65.87,54.69,0.42
+618,2,American Indian,2,Mens Apparel,3,SE,2021-01-24 00:44:00,34.56,27.78,0.77
+619,9,American Indian,6,Kids Toys,3,SE,2021-09-10 23:16:00,45.67,38.06,3.35
+620,1,Asian,7,Mens Apparel,4,SW,2021-10-15 04:37:00,45.98,39.37,0.24
+621,3,Pacific Islander,1,Kids Toys,3,SE,2021-09-06 22:48:00,23.45,19.56,0.89
+622,4,White,2,Mens Apparel,4,SW,2021-12-15 16:29:00,34.56,33.94,2.87
+623,9,American Indian,2,Mens Apparel,7,SE,2021-03-07 11:56:00,34.56,33.44,1.44
+624,11,Asian,5,Electronics,5,NE,2021-08-24 11:50:00,999.99,858.3,44.78
+625,6,African American,6,Kids Toys,5,NE,2021-02-19 14:38:00,45.67,42.74,4.04
+626,5,African American,7,Mens Apparel,2,NW,2021-07-29 08:26:00,45.98,44.47,3.33
+627,10,Pacific Islander,4,Electronics,7,SE,2021-10-22 16:56:00,345.67,318.41,11.26
+628,8,Asian,3,Kitchen Appliance,8,SW,2021-07-06 05:30:00,99.99,92.95,3.78
+629,3,Pacific Islander,1,Kids Toys,6,NW,2021-12-21 04:17:00,23.45,23.01,2.2
+630,4,White,8,Kitchen Appliance,8,SW,2021-10-04 17:16:00,65.87,60.37,4.7
+631,12,Asian,4,Electronics,7,SE,2021-09-02 07:15:00,345.67,294.03,24.62
+632,3,Pacific Islander,7,Mens Apparel,7,SE,2021-08-25 10:48:00,45.98,38.91,2.0
+633,7,White,6,Kids Toys,4,SW,2021-06-25 15:53:00,45.67,38.49,2.52
+634,9,American Indian,4,Electronics,4,SW,2021-06-16 01:48:00,345.67,329.29,7.7
+635,9,American Indian,1,Kids Toys,4,SW,2021-12-15 05:18:00,23.45,19.8,1.38
+636,7,White,6,Kids Toys,7,SE,2021-01-19 05:32:00,45.67,45.03,0.92
+637,3,Pacific Islander,1,Kids Toys,2,NW,2021-04-26 11:16:00,23.45,22.77,0.4
+638,5,African American,4,Electronics,7,SE,2021-10-24 16:07:00,345.67,276.85,7.44
+639,8,Asian,4,Electronics,8,SW,2021-02-14 02:15:00,345.67,336.03,32.6
+640,6,African American,1,Kids Toys,8,SW,2021-02-09 14:31:00,23.45,19.11,0.6
+641,8,Asian,7,Mens Apparel,4,SW,2021-05-24 10:53:00,45.98,40.49,1.44
+642,5,African American,2,Mens Apparel,3,SE,2021-06-20 02:15:00,34.56,32.48,0.06
+643,5,African American,3,Kitchen Appliance,7,SE,2021-06-09 15:45:00,99.99,86.69,5.29
+644,12,Asian,7,Mens Apparel,3,SE,2021-12-18 13:54:00,45.98,39.13,0.38
+645,1,Asian,7,Mens Apparel,3,SE,2021-01-06 15:57:00,45.98,39.01,1.46
+646,10,Pacific Islander,1,Kids Toys,3,SE,2021-01-22 18:09:00,23.45,19.63,1.45
+647,12,Asian,4,Electronics,3,SE,2021-05-27 04:55:00,345.67,289.76,2.03
+648,8,Asian,1,Kids Toys,1,NE,2021-11-18 09:33:00,23.45,20.54,0.29
+649,2,American Indian,5,Electronics,2,NW,2021-12-16 10:13:00,999.99,817.81,73.82
+650,5,African American,3,Kitchen Appliance,2,NW,2021-08-23 04:24:00,99.99,81.96,0.98
+651,10,Pacific Islander,6,Kids Toys,5,NE,2021-05-17 19:56:00,45.67,42.14,0.62
+652,6,African American,3,Kitchen Appliance,6,NW,2021-02-16 23:43:00,99.99,93.65,2.93
+653,9,American Indian,1,Kids Toys,3,SE,2021-06-28 02:53:00,23.45,23.4,1.97
+654,2,American Indian,6,Kids Toys,2,NW,2021-07-12 22:55:00,45.67,40.95,0.89
+655,4,White,8,Kitchen Appliance,5,NE,2021-02-22 16:11:00,65.87,64.2,2.68
+656,9,American Indian,5,Electronics,6,NW,2021-06-10 23:56:00,999.99,818.01,65.56
+657,12,Asian,5,Electronics,3,SE,2021-01-31 05:26:00,999.99,929.15,63.95
+658,8,Asian,2,Mens Apparel,5,NE,2021-10-13 02:03:00,34.56,31.22,2.33
+659,7,White,6,Kids Toys,7,SE,2021-12-16 03:33:00,45.67,40.1,1.31
+660,6,African American,3,Kitchen Appliance,8,SW,2021-10-22 20:56:00,99.99,97.87,0.25
+661,11,Asian,8,Kitchen Appliance,7,SE,2021-12-23 06:39:00,65.87,53.94,1.18
+662,7,White,2,Mens Apparel,4,SW,2021-04-11 07:54:00,34.56,31.51,0.67
+663,4,White,4,Electronics,3,SE,2021-04-14 02:49:00,345.67,341.32,2.81
+664,7,White,7,Mens Apparel,7,SE,2021-01-18 12:42:00,45.98,45.21,1.75
+665,8,Asian,6,Kids Toys,1,NE,2021-06-04 13:31:00,45.67,40.99,1.09
+666,7,White,1,Kids Toys,3,SE,2021-12-31 22:11:00,23.45,21.95,0.7
+667,8,Asian,6,Kids Toys,4,SW,2021-08-23 13:47:00,45.67,45.44,0.52
+668,3,Pacific Islander,5,Electronics,4,SW,2021-12-16 17:55:00,999.99,933.62,80.08
+669,8,Asian,1,Kids Toys,4,SW,2021-01-25 00:54:00,23.45,20.1,0.55
+670,7,White,6,Kids Toys,3,SE,2021-10-30 10:01:00,45.67,42.2,4.18
+671,6,African American,8,Kitchen Appliance,1,NE,2021-05-21 08:17:00,65.87,60.96,5.13
+672,1,Asian,3,Kitchen Appliance,4,SW,2021-08-27 02:14:00,99.99,90.71,7.9
+673,7,White,4,Electronics,4,SW,2021-02-08 20:54:00,345.67,330.4,20.85
+674,12,Asian,2,Mens Apparel,4,SW,2021-12-12 13:50:00,34.56,30.88,2.22
+675,8,Asian,6,Kids Toys,5,NE,2021-04-21 07:54:00,45.67,44.43,1.2
+676,3,Pacific Islander,3,Kitchen Appliance,4,SW,2021-11-22 13:47:00,99.99,93.07,5.47
+677,10,Pacific Islander,5,Electronics,6,NW,2021-06-23 11:00:00,999.99,977.72,28.02
+678,6,African American,6,Kids Toys,3,SE,2021-01-10 01:40:00,45.67,39.75,2.77
+679,5,African American,2,Mens Apparel,8,SW,2021-12-22 05:02:00,34.56,32.02,2.92
+680,10,Pacific Islander,5,Electronics,2,NW,2021-08-07 04:02:00,999.99,843.59,2.92
+681,9,American Indian,2,Mens Apparel,1,NE,2021-07-03 15:56:00,34.56,34.46,2.28
+682,2,American Indian,6,Kids Toys,6,NW,2021-04-22 16:45:00,45.67,44.08,3.6
+683,9,American Indian,4,Electronics,2,NW,2021-05-27 15:25:00,345.67,304.08,16.58
+684,2,American Indian,4,Electronics,4,SW,2021-10-30 19:48:00,345.67,317.36,1.67
+685,12,Asian,5,Electronics,4,SW,2021-08-23 09:42:00,999.99,897.2,30.75
+686,4,White,2,Mens Apparel,4,SW,2021-06-12 15:58:00,34.56,30.03,2.1
+687,6,African American,2,Mens Apparel,4,SW,2021-04-28 18:28:00,34.56,30.64,2.05
+688,8,Asian,4,Electronics,8,SW,2021-11-29 01:47:00,345.67,325.73,23.5
+689,8,Asian,3,Kitchen Appliance,6,NW,2021-05-02 04:52:00,99.99,91.07,0.12
+690,12,Asian,5,Electronics,4,SW,2021-07-13 03:44:00,999.99,830.82,44.3
+691,6,African American,7,Mens Apparel,8,SW,2021-12-31 22:08:00,45.98,42.11,3.6
+692,9,American Indian,5,Electronics,6,NW,2021-08-22 23:23:00,999.99,961.26,32.79
+693,11,Asian,4,Electronics,4,SW,2021-06-23 17:00:00,345.67,337.28,1.02
+694,2,American Indian,2,Mens Apparel,8,SW,2021-08-01 02:14:00,34.56,28.29,2.78
+695,8,Asian,8,Kitchen Appliance,7,SE,2021-10-29 09:03:00,65.87,65.36,1.36
+696,7,White,2,Mens Apparel,8,SW,2021-09-25 11:42:00,34.56,33.13,0.52
+697,8,Asian,7,Mens Apparel,1,NE,2021-04-24 16:14:00,45.98,43.59,1.1
+698,4,White,6,Kids Toys,1,NE,2021-09-07 17:15:00,45.67,43.6,2.19
+699,8,Asian,6,Kids Toys,7,SE,2021-12-04 15:33:00,45.67,40.85,3.29
+700,7,White,1,Kids Toys,7,SE,2021-05-26 13:49:00,23.45,22.1,0.09
+701,5,African American,1,Kids Toys,7,SE,2021-01-20 11:53:00,23.45,19.47,1.09
+702,8,Asian,3,Kitchen Appliance,4,SW,2021-09-17 01:53:00,99.99,91.36,3.02
+703,3,Pacific Islander,1,Kids Toys,2,NW,2021-11-03 10:49:00,23.45,20.05,1.52
+704,5,African American,7,Mens Apparel,6,NW,2021-01-09 07:34:00,45.98,41.99,1.36
+705,10,Pacific Islander,3,Kitchen Appliance,3,SE,2021-12-11 22:04:00,99.99,88.61,8.54
+706,5,African American,3,Kitchen Appliance,8,SW,2021-07-30 16:09:00,99.99,91.88,0.57
+707,4,White,4,Electronics,3,SE,2021-07-01 12:25:00,345.67,312.01,3.95
+708,12,Asian,5,Electronics,2,NW,2021-05-06 00:05:00,999.99,971.63,27.85
+709,11,Asian,5,Electronics,2,NW,2021-01-27 06:20:00,999.99,997.04,21.78
+710,2,American Indian,4,Electronics,4,SW,2021-05-17 20:51:00,345.67,343.91,23.99
+711,12,Asian,2,Mens Apparel,7,SE,2021-03-05 08:49:00,34.56,33.28,2.14
+712,5,African American,3,Kitchen Appliance,6,NW,2021-09-19 21:48:00,99.99,86.13,4.24
+713,2,American Indian,7,Mens Apparel,5,NE,2021-09-14 03:34:00,45.98,38.09,0.33
+714,12,Asian,8,Kitchen Appliance,6,NW,2021-03-18 13:07:00,65.87,54.8,0.13
+715,4,White,2,Mens Apparel,4,SW,2021-02-24 19:29:00,34.56,32.93,0.36
+716,10,Pacific Islander,1,Kids Toys,6,NW,2021-06-12 01:11:00,23.45,22.95,0.6
+717,2,American Indian,8,Kitchen Appliance,1,NE,2021-05-20 09:48:00,65.87,64.57,4.29
+718,7,White,7,Mens Apparel,7,SE,2021-04-14 11:51:00,45.98,44.3,0.92
+719,5,African American,1,Kids Toys,8,SW,2021-01-06 19:59:00,23.45,18.84,0.84
+720,11,Asian,3,Kitchen Appliance,7,SE,2021-03-18 01:15:00,99.99,96.8,5.87
+721,11,Asian,3,Kitchen Appliance,6,NW,2021-10-07 13:51:00,99.99,96.09,9.25
+722,3,Pacific Islander,3,Kitchen Appliance,6,NW,2021-09-27 05:59:00,99.99,91.96,0.22
+723,9,American Indian,7,Mens Apparel,7,SE,2021-10-18 20:14:00,45.98,39.09,0.14
+724,6,African American,7,Mens Apparel,8,SW,2021-08-16 06:11:00,45.98,40.01,1.35
+725,7,White,2,Mens Apparel,6,NW,2021-12-15 10:42:00,34.56,29.87,0.06
+726,1,Asian,5,Electronics,4,SW,2021-04-11 21:29:00,999.99,818.94,43.55
+727,2,American Indian,7,Mens Apparel,6,NW,2021-12-04 16:50:00,45.98,40.79,2.08
+728,7,White,5,Electronics,5,NE,2021-01-05 21:00:00,999.99,961.86,92.26
+729,4,White,8,Kitchen Appliance,7,SE,2021-03-15 06:13:00,65.87,57.99,3.23
+730,9,American Indian,2,Mens Apparel,4,SW,2021-07-11 07:01:00,34.56,32.82,1.16
+731,10,Pacific Islander,4,Electronics,2,NW,2021-08-28 10:28:00,345.67,315.57,27.0
+732,11,Asian,1,Kids Toys,2,NW,2021-01-08 18:15:00,23.45,21.61,1.14
+733,11,Asian,8,Kitchen Appliance,8,SW,2021-12-29 23:22:00,65.87,58.15,2.66
+734,12,Asian,8,Kitchen Appliance,3,SE,2021-06-09 05:49:00,65.87,57.47,1.1
+735,4,White,1,Kids Toys,6,NW,2021-12-20 12:53:00,23.45,19.05,0.5
+736,4,White,4,Electronics,1,NE,2021-12-31 12:48:00,345.67,288.19,16.93
+737,3,Pacific Islander,3,Kitchen Appliance,6,NW,2021-05-17 12:53:00,99.99,82.06,7.8
+738,9,American Indian,3,Kitchen Appliance,7,SE,2021-08-21 15:31:00,99.99,97.16,4.24
+739,11,Asian,4,Electronics,2,NW,2021-12-12 05:58:00,345.67,327.91,3.96
+740,12,Asian,6,Kids Toys,5,NE,2021-09-19 15:39:00,45.67,38.98,0.57
+741,11,Asian,3,Kitchen Appliance,5,NE,2021-12-31 06:55:00,99.99,97.93,9.49
+742,3,Pacific Islander,5,Electronics,7,SE,2021-07-21 14:10:00,999.99,803.13,20.13
+743,1,Asian,8,Kitchen Appliance,6,NW,2021-11-28 15:30:00,65.87,65.17,4.28
+744,11,Asian,8,Kitchen Appliance,4,SW,2021-07-30 12:25:00,65.87,61.27,4.05
+745,10,Pacific Islander,2,Mens Apparel,8,SW,2021-09-08 08:36:00,34.56,33.45,1.24
+746,7,White,7,Mens Apparel,5,NE,2021-12-31 23:36:00,45.98,43.32,2.25
+747,10,Pacific Islander,7,Mens Apparel,5,NE,2021-12-16 06:27:00,45.98,37.92,1.29
+748,6,African American,1,Kids Toys,4,SW,2021-06-22 06:04:00,23.45,19.89,1.73
+749,5,African American,7,Mens Apparel,2,NW,2021-02-27 16:17:00,45.98,38.83,1.27
+750,11,Asian,3,Kitchen Appliance,1,NE,2021-10-29 09:15:00,99.99,99.47,4.66
+751,4,White,6,Kids Toys,4,SW,2021-05-18 08:08:00,45.67,36.67,2.16
+752,1,Asian,8,Kitchen Appliance,2,NW,2021-02-07 13:16:00,65.87,58.21,1.49
+753,8,Asian,5,Electronics,4,SW,2021-03-12 04:39:00,999.99,887.54,52.64
+754,3,Pacific Islander,6,Kids Toys,6,NW,2021-12-22 17:46:00,45.67,40.09,1.01
+755,1,Asian,4,Electronics,5,NE,2021-12-04 17:12:00,345.67,315.11,1.46
+756,1,Asian,7,Mens Apparel,7,SE,2021-04-19 07:12:00,45.98,42.02,0.35
+757,7,White,1,Kids Toys,6,NW,2021-06-06 05:04:00,23.45,21.79,0.53
+758,5,African American,7,Mens Apparel,8,SW,2021-03-20 16:17:00,45.98,40.36,0.84
+759,11,Asian,1,Kids Toys,1,NE,2021-05-02 09:42:00,23.45,20.63,1.38
+760,8,Asian,6,Kids Toys,1,NE,2021-11-19 19:18:00,45.67,45.4,3.73
+761,6,African American,1,Kids Toys,2,NW,2021-12-01 05:05:00,23.45,19.9,0.98
+762,1,Asian,2,Mens Apparel,6,NW,2021-02-03 00:07:00,34.56,29.1,2.64
+763,5,African American,2,Mens Apparel,8,SW,2021-11-07 07:53:00,34.56,31.35,1.65
+764,1,Asian,8,Kitchen Appliance,1,NE,2021-10-17 13:17:00,65.87,63.61,5.53
+765,9,American Indian,7,Mens Apparel,3,SE,2021-12-08 00:59:00,45.98,42.18,2.08
+766,5,African American,8,Kitchen Appliance,2,NW,2021-04-09 08:23:00,65.87,57.25,2.6
+767,4,White,3,Kitchen Appliance,4,SW,2021-06-20 08:27:00,99.99,91.37,6.54
+768,8,Asian,5,Electronics,3,SE,2021-01-03 23:45:00,999.99,872.93,19.69
+769,5,African American,6,Kids Toys,2,NW,2021-01-21 05:27:00,45.67,41.3,2.86
+770,3,Pacific Islander,5,Electronics,6,NW,2021-07-07 08:35:00,999.99,964.49,70.44
+771,8,Asian,3,Kitchen Appliance,3,SE,2021-05-26 18:09:00,99.99,82.53,7.54
+772,8,Asian,4,Electronics,5,NE,2021-07-09 21:45:00,345.67,329.37,30.33
+773,12,Asian,6,Kids Toys,2,NW,2021-07-24 15:51:00,45.67,43.12,3.02
+774,7,White,7,Mens Apparel,7,SE,2021-03-07 14:01:00,45.98,45.8,1.3
+775,5,African American,8,Kitchen Appliance,4,SW,2021-05-05 18:51:00,65.87,63.83,4.12
+776,10,Pacific Islander,4,Electronics,5,NE,2021-11-06 17:12:00,345.67,320.92,17.62
+777,12,Asian,5,Electronics,2,NW,2021-07-28 05:04:00,999.99,896.81,70.05
+778,12,Asian,1,Kids Toys,2,NW,2021-07-23 12:07:00,23.45,22.34,1.3
+779,1,Asian,7,Mens Apparel,6,NW,2021-04-13 20:11:00,45.98,42.07,3.8
+780,4,White,3,Kitchen Appliance,1,NE,2021-08-10 16:01:00,99.99,88.76,1.8
+781,8,Asian,2,Mens Apparel,7,SE,2021-06-01 00:35:00,34.56,31.94,0.69
+782,12,Asian,7,Mens Apparel,5,NE,2021-07-12 10:38:00,45.98,37.83,2.27
+783,5,African American,3,Kitchen Appliance,5,NE,2021-12-08 21:16:00,99.99,86.96,1.17
+784,1,Asian,4,Electronics,8,SW,2021-03-05 07:37:00,345.67,279.06,3.8
+785,10,Pacific Islander,1,Kids Toys,7,SE,2021-03-30 10:10:00,23.45,18.96,1.06
+786,8,Asian,4,Electronics,6,NW,2021-03-01 11:10:00,345.67,282.09,17.71
+787,2,American Indian,3,Kitchen Appliance,7,SE,2021-04-19 01:54:00,99.99,98.91,1.18
+788,9,American Indian,3,Kitchen Appliance,4,SW,2021-11-06 09:18:00,99.99,95.78,1.04
+789,1,Asian,2,Mens Apparel,5,NE,2021-02-21 11:33:00,34.56,32.04,0.43
+790,8,Asian,2,Mens Apparel,6,NW,2021-07-04 07:16:00,34.56,28.78,1.54
+791,4,White,7,Mens Apparel,7,SE,2021-09-10 12:46:00,45.98,40.27,0.83
+792,2,American Indian,4,Electronics,8,SW,2021-08-09 09:18:00,345.67,342.36,4.56
+793,11,Asian,4,Electronics,4,SW,2021-08-03 02:15:00,345.67,316.18,25.54
+794,5,African American,3,Kitchen Appliance,6,NW,2021-08-06 05:13:00,99.99,80.87,0.16
+795,3,Pacific Islander,6,Kids Toys,6,NW,2021-10-22 10:37:00,45.67,39.58,2.25
+796,1,Asian,1,Kids Toys,2,NW,2021-03-03 17:50:00,23.45,20.69,1.38
+797,2,American Indian,3,Kitchen Appliance,2,NW,2021-10-08 12:15:00,99.99,88.94,3.13
+798,2,American Indian,2,Mens Apparel,6,NW,2021-01-18 21:34:00,34.56,28.57,0.25
+799,8,Asian,5,Electronics,6,NW,2021-07-26 04:19:00,999.99,913.47,88.92
+800,12,Asian,1,Kids Toys,1,NE,2021-01-28 02:52:00,23.45,20.78,0.67
+801,3,Pacific Islander,1,Kids Toys,7,SE,2021-07-27 05:43:00,23.45,23.11,0.26
+802,10,Pacific Islander,4,Electronics,1,NE,2021-04-06 22:21:00,345.67,282.83,19.07
+803,6,African American,1,Kids Toys,4,SW,2021-11-22 19:01:00,23.45,22.01,1.92
+804,4,White,2,Mens Apparel,5,NE,2021-09-12 01:18:00,34.56,29.75,1.85
+805,9,American Indian,3,Kitchen Appliance,6,NW,2021-07-19 08:08:00,99.99,87.33,2.64
+806,4,White,2,Mens Apparel,8,SW,2021-09-24 15:12:00,34.56,32.67,0.14
+807,9,American Indian,2,Mens Apparel,3,SE,2021-04-08 22:48:00,34.56,30.49,0.43
+808,8,Asian,3,Kitchen Appliance,1,NE,2021-03-30 11:00:00,99.99,92.38,1.44
+809,6,African American,6,Kids Toys,7,SE,2021-06-24 12:33:00,45.67,42.31,0.64
+810,10,Pacific Islander,5,Electronics,1,NE,2021-12-19 05:05:00,999.99,883.97,20.06
+811,10,Pacific Islander,4,Electronics,4,SW,2021-05-19 18:02:00,345.67,327.73,21.66
+812,5,African American,6,Kids Toys,5,NE,2021-04-19 08:52:00,45.67,38.21,0.5
+813,4,White,1,Kids Toys,1,NE,2021-12-16 07:49:00,23.45,22.08,1.47
+814,8,Asian,8,Kitchen Appliance,6,NW,2021-09-23 00:54:00,65.87,54.39,0.8
+815,2,American Indian,1,Kids Toys,2,NW,2021-11-14 15:31:00,23.45,21.78,0.04
+816,9,American Indian,3,Kitchen Appliance,1,NE,2021-04-30 14:23:00,99.99,94.7,1.25
+817,5,African American,2,Mens Apparel,1,NE,2021-11-14 05:14:00,34.56,28.15,2.4
+818,5,African American,2,Mens Apparel,1,NE,2021-11-04 22:56:00,34.56,29.97,0.37
+819,10,Pacific Islander,6,Kids Toys,5,NE,2021-01-10 01:02:00,45.67,41.61,3.41
+820,11,Asian,1,Kids Toys,6,NW,2021-10-03 05:20:00,23.45,19.4,0.65
+821,11,Asian,1,Kids Toys,5,NE,2021-09-02 05:20:00,23.45,22.41,0.47
+822,1,Asian,1,Kids Toys,8,SW,2021-02-05 03:39:00,23.45,20.17,0.55
+823,6,African American,3,Kitchen Appliance,8,SW,2021-09-23 13:39:00,99.99,91.94,0.15
+824,3,Pacific Islander,3,Kitchen Appliance,3,SE,2021-02-12 05:45:00,99.99,98.34,7.11
+825,9,American Indian,8,Kitchen Appliance,7,SE,2021-02-22 09:29:00,65.87,53.1,0.86
+826,11,Asian,2,Mens Apparel,6,NW,2021-01-08 10:07:00,34.56,29.37,0.68
+827,3,Pacific Islander,2,Mens Apparel,4,SW,2021-04-08 17:27:00,34.56,29.39,0.5
+828,9,American Indian,8,Kitchen Appliance,3,SE,2021-11-20 06:16:00,65.87,65.72,3.2
+829,7,White,3,Kitchen Appliance,5,NE,2021-11-26 10:42:00,99.99,82.23,8.05
+830,7,White,6,Kids Toys,4,SW,2021-04-26 05:29:00,45.67,42.68,3.79
+831,8,Asian,6,Kids Toys,1,NE,2021-10-29 09:11:00,45.67,40.83,2.88
+832,2,American Indian,7,Mens Apparel,6,NW,2021-09-12 09:04:00,45.98,39.88,2.63
+833,4,White,5,Electronics,6,NW,2021-06-07 05:39:00,999.99,921.32,30.8
+834,8,Asian,5,Electronics,4,SW,2021-08-21 20:17:00,999.99,920.04,28.99
+835,10,Pacific Islander,6,Kids Toys,3,SE,2021-05-31 06:11:00,45.67,40.22,1.92
+836,9,American Indian,8,Kitchen Appliance,3,SE,2021-04-25 05:13:00,65.87,64.26,3.19
+837,8,Asian,5,Electronics,6,NW,2021-04-04 08:11:00,999.99,900.41,74.43
+838,11,Asian,5,Electronics,6,NW,2021-09-04 19:21:00,999.99,969.2,3.87
+839,2,American Indian,7,Mens Apparel,5,NE,2021-10-29 15:21:00,45.98,38.58,0.38
+840,10,Pacific Islander,6,Kids Toys,5,NE,2021-01-03 18:45:00,45.67,38.83,3.78
+841,9,American Indian,3,Kitchen Appliance,6,NW,2021-09-01 03:41:00,99.99,85.12,3.82
+842,4,White,2,Mens Apparel,5,NE,2021-11-02 04:40:00,34.56,28.65,0.61
+843,1,Asian,5,Electronics,7,SE,2021-04-19 14:38:00,999.99,821.86,11.39
+844,10,Pacific Islander,5,Electronics,4,SW,2021-05-10 08:55:00,999.99,930.37,39.47
+845,11,Asian,7,Mens Apparel,8,SW,2021-04-30 10:00:00,45.98,44.08,0.85
+846,3,Pacific Islander,2,Mens Apparel,5,NE,2021-03-04 13:13:00,34.56,33.74,2.16
+847,5,African American,5,Electronics,3,SE,2021-04-13 03:15:00,999.99,917.68,60.16
+848,12,Asian,2,Mens Apparel,5,NE,2021-02-17 16:55:00,34.56,27.68,0.33
+849,12,Asian,1,Kids Toys,2,NW,2021-06-07 10:04:00,23.45,19.02,1.69
+850,9,American Indian,8,Kitchen Appliance,8,SW,2021-10-15 16:59:00,65.87,64.74,2.23
+851,12,Asian,6,Kids Toys,2,NW,2021-08-16 08:38:00,45.67,44.02,1.01
+852,10,Pacific Islander,1,Kids Toys,3,SE,2021-07-12 07:42:00,23.45,19.69,0.77
+853,6,African American,4,Electronics,2,NW,2021-12-30 09:36:00,345.67,341.94,7.29
+854,3,Pacific Islander,2,Mens Apparel,7,SE,2021-06-11 18:33:00,34.56,30.83,0.98
+855,8,Asian,5,Electronics,5,NE,2021-05-08 12:47:00,999.99,972.75,81.01
+856,5,African American,4,Electronics,1,NE,2021-05-03 05:11:00,345.67,328.14,18.26
+857,8,Asian,2,Mens Apparel,4,SW,2021-02-26 09:19:00,34.56,30.55,1.32
+858,9,American Indian,5,Electronics,3,SE,2021-06-09 16:21:00,999.99,939.82,15.78
+859,2,American Indian,4,Electronics,7,SE,2021-11-18 11:22:00,345.67,337.89,20.53
+860,7,White,4,Electronics,8,SW,2021-01-30 18:58:00,345.67,321.0,25.22
+861,6,African American,3,Kitchen Appliance,5,NE,2021-08-17 10:14:00,99.99,99.87,0.74
+862,7,White,2,Mens Apparel,1,NE,2021-05-09 08:22:00,34.56,34.55,2.65
+863,10,Pacific Islander,3,Kitchen Appliance,3,SE,2021-03-08 17:13:00,99.99,93.88,2.54
+864,8,Asian,6,Kids Toys,4,SW,2021-09-07 05:12:00,45.67,37.53,0.7
+865,2,American Indian,6,Kids Toys,5,NE,2021-05-02 13:16:00,45.67,43.84,3.06
+866,2,American Indian,8,Kitchen Appliance,7,SE,2021-03-31 11:04:00,65.87,62.25,0.07
+867,8,Asian,1,Kids Toys,2,NW,2021-07-15 11:24:00,23.45,22.16,1.73
+868,5,African American,4,Electronics,5,NE,2021-02-05 18:01:00,345.67,297.81,5.63
+869,2,American Indian,2,Mens Apparel,7,SE,2021-05-30 12:20:00,34.56,29.68,1.34
+870,11,Asian,4,Electronics,3,SE,2021-03-17 10:03:00,345.67,290.17,19.42
+871,6,African American,4,Electronics,5,NE,2021-08-19 16:44:00,345.67,335.14,26.41
+872,10,Pacific Islander,6,Kids Toys,5,NE,2021-05-16 05:20:00,45.67,40.42,2.5
+873,4,White,7,Mens Apparel,4,SW,2021-04-16 07:31:00,45.98,42.13,2.94
+874,8,Asian,2,Mens Apparel,6,NW,2021-04-15 07:20:00,34.56,33.37,1.09
+875,8,Asian,8,Kitchen Appliance,6,NW,2021-12-10 08:29:00,65.87,55.07,0.99
+876,3,Pacific Islander,7,Mens Apparel,4,SW,2021-06-12 00:52:00,45.98,42.19,1.2
+877,7,White,3,Kitchen Appliance,6,NW,2021-01-06 21:42:00,99.99,83.67,6.35
+878,8,Asian,2,Mens Apparel,4,SW,2021-01-18 17:24:00,34.56,28.33,2.36
+879,7,White,4,Electronics,3,SE,2021-06-27 08:36:00,345.67,300.18,15.65
+880,1,Asian,7,Mens Apparel,7,SE,2021-08-21 10:03:00,45.98,44.32,4.04
+881,2,American Indian,1,Kids Toys,5,NE,2021-05-18 22:13:00,23.45,23.04,0.12
+882,7,White,5,Electronics,7,SE,2021-02-11 14:02:00,999.99,994.72,8.73
+883,7,White,8,Kitchen Appliance,5,NE,2021-01-13 11:35:00,65.87,53.39,1.31
+884,9,American Indian,5,Electronics,5,NE,2021-04-26 06:55:00,999.99,843.14,23.87
+885,3,Pacific Islander,4,Electronics,3,SE,2021-10-28 21:20:00,345.67,310.39,30.17
+886,2,American Indian,6,Kids Toys,5,NE,2021-10-08 06:16:00,45.67,37.65,1.69
+887,5,African American,5,Electronics,2,NW,2021-03-26 18:38:00,999.99,826.9,70.33
+888,10,Pacific Islander,4,Electronics,5,NE,2021-03-20 19:42:00,345.67,283.81,7.51
+889,7,White,7,Mens Apparel,7,SE,2021-04-23 10:35:00,45.98,43.98,1.86
+890,7,White,3,Kitchen Appliance,8,SW,2021-10-03 19:03:00,99.99,82.17,0.73
+891,1,Asian,8,Kitchen Appliance,1,NE,2021-01-22 09:06:00,65.87,56.27,4.0
+892,3,Pacific Islander,4,Electronics,5,NE,2021-04-06 01:40:00,345.67,276.98,0.91
+893,1,Asian,2,Mens Apparel,4,SW,2021-01-30 06:49:00,34.56,27.8,2.36
+894,1,Asian,2,Mens Apparel,5,NE,2021-07-21 19:17:00,34.56,34.44,0.43
+895,6,African American,5,Electronics,5,NE,2021-04-05 22:19:00,999.99,951.62,86.56
+896,9,American Indian,6,Kids Toys,4,SW,2021-08-11 06:36:00,45.67,39.02,2.48
+897,6,African American,8,Kitchen Appliance,1,NE,2021-03-06 20:57:00,65.87,59.11,2.98
+898,6,African American,3,Kitchen Appliance,7,SE,2021-11-27 17:14:00,99.99,96.32,8.59
+899,9,American Indian,5,Electronics,8,SW,2021-10-31 15:43:00,999.99,845.01,74.7
+900,7,White,1,Kids Toys,5,NE,2021-07-12 18:01:00,23.45,18.98,0.37
+901,12,Asian,1,Kids Toys,2,NW,2021-06-25 02:50:00,23.45,23.38,0.16
+902,10,Pacific Islander,6,Kids Toys,3,SE,2021-03-14 09:12:00,45.67,45.32,4.18
+903,8,Asian,5,Electronics,3,SE,2021-08-01 00:06:00,999.99,819.89,27.43
+904,9,American Indian,6,Kids Toys,1,NE,2021-04-15 09:56:00,45.67,43.16,0.31
+905,2,American Indian,7,Mens Apparel,3,SE,2021-05-20 11:20:00,45.98,38.55,0.98
+906,5,African American,7,Mens Apparel,2,NW,2021-04-14 18:36:00,45.98,40.35,1.57
+907,7,White,6,Kids Toys,1,NE,2021-06-01 06:55:00,45.67,36.62,0.24
+908,3,Pacific Islander,3,Kitchen Appliance,3,SE,2021-02-22 10:51:00,99.99,95.74,6.78
+909,11,Asian,6,Kids Toys,7,SE,2021-06-12 16:29:00,45.67,42.62,0.2
+910,7,White,5,Electronics,6,NW,2021-05-03 06:51:00,999.99,968.94,62.27
+911,12,Asian,7,Mens Apparel,7,SE,2021-03-07 21:45:00,45.98,40.42,1.38
+912,5,African American,4,Electronics,3,SE,2021-03-25 19:12:00,345.67,334.64,15.68
+913,7,White,1,Kids Toys,6,NW,2021-06-09 20:32:00,23.45,19.24,0.36
+914,8,Asian,1,Kids Toys,8,SW,2021-03-26 23:35:00,23.45,22.78,0.72
+915,4,White,3,Kitchen Appliance,4,SW,2021-12-17 09:25:00,99.99,85.07,8.46
+916,5,African American,6,Kids Toys,2,NW,2021-03-16 05:18:00,45.67,43.38,0.13
+917,9,American Indian,2,Mens Apparel,6,NW,2021-07-08 16:16:00,34.56,30.56,0.36
+918,11,Asian,1,Kids Toys,8,SW,2021-11-21 16:00:00,23.45,19.79,1.58
+919,12,Asian,3,Kitchen Appliance,6,NW,2021-10-23 22:48:00,99.99,98.6,9.42
+920,7,White,3,Kitchen Appliance,1,NE,2021-05-08 22:31:00,99.99,85.89,0.41
+921,10,Pacific Islander,3,Kitchen Appliance,6,NW,2021-07-30 21:46:00,99.99,96.09,7.18
+922,9,American Indian,8,Kitchen Appliance,7,SE,2021-10-25 02:15:00,65.87,55.85,2.84
+923,3,Pacific Islander,1,Kids Toys,6,NW,2021-09-09 03:58:00,23.45,22.8,1.35
+924,9,American Indian,4,Electronics,4,SW,2021-04-05 16:37:00,345.67,320.03,12.57
+925,6,African American,1,Kids Toys,8,SW,2021-08-07 21:08:00,23.45,22.14,1.44
+926,1,Asian,6,Kids Toys,5,NE,2021-03-15 01:26:00,45.67,42.49,3.64
+927,2,American Indian,1,Kids Toys,8,SW,2021-09-16 04:07:00,23.45,20.94,0.92
+928,5,African American,2,Mens Apparel,1,NE,2021-03-05 13:17:00,34.56,33.89,3.12
+929,12,Asian,6,Kids Toys,1,NE,2021-02-11 01:48:00,45.67,39.52,3.78
+930,4,White,3,Kitchen Appliance,4,SW,2021-01-06 21:19:00,99.99,86.39,4.84
+931,10,Pacific Islander,2,Mens Apparel,7,SE,2021-07-20 20:04:00,34.56,29.45,0.54
+932,2,American Indian,8,Kitchen Appliance,7,SE,2021-06-19 15:16:00,65.87,58.52,0.35
+933,10,Pacific Islander,4,Electronics,4,SW,2021-02-05 21:02:00,345.67,314.76,12.8
+934,7,White,6,Kids Toys,8,SW,2021-10-26 09:50:00,45.67,43.31,1.27
+935,7,White,6,Kids Toys,6,NW,2021-03-14 02:19:00,45.67,43.96,3.04
+936,2,American Indian,1,Kids Toys,3,SE,2021-01-09 16:42:00,23.45,19.83,1.61
+937,10,Pacific Islander,4,Electronics,6,NW,2021-01-31 17:53:00,345.67,293.63,10.68
+938,11,Asian,4,Electronics,4,SW,2021-09-12 15:23:00,345.67,291.41,13.21
+939,11,Asian,8,Kitchen Appliance,1,NE,2021-11-29 04:51:00,65.87,64.46,1.63
+940,2,American Indian,6,Kids Toys,2,NW,2021-12-02 13:56:00,45.67,44.94,2.98
+941,6,African American,3,Kitchen Appliance,7,SE,2021-02-15 23:34:00,99.99,88.72,8.06
+942,10,Pacific Islander,4,Electronics,1,NE,2021-12-30 04:05:00,345.67,343.81,3.06
+943,6,African American,4,Electronics,8,SW,2021-04-25 01:06:00,345.67,295.59,23.49
+944,8,Asian,1,Kids Toys,7,SE,2021-10-16 12:33:00,23.45,21.65,1.27
+945,11,Asian,2,Mens Apparel,5,NE,2021-11-22 02:21:00,34.56,30.19,1.35
+946,4,White,1,Kids Toys,1,NE,2021-08-09 12:18:00,23.45,22.32,0.61
+947,7,White,2,Mens Apparel,5,NE,2021-06-13 16:35:00,34.56,28.16,2.36
+948,10,Pacific Islander,5,Electronics,1,NE,2021-05-31 19:59:00,999.99,980.39,23.11
+949,6,African American,1,Kids Toys,1,NE,2021-09-28 23:56:00,23.45,21.55,0.24
+950,10,Pacific Islander,1,Kids Toys,2,NW,2021-01-22 08:14:00,23.45,21.5,1.43
+951,2,American Indian,2,Mens Apparel,3,SE,2021-10-24 21:10:00,34.56,31.11,0.63
+952,4,White,2,Mens Apparel,8,SW,2021-04-06 05:24:00,34.56,32.47,0.08
+953,6,African American,6,Kids Toys,2,NW,2021-05-08 10:06:00,45.67,38.33,1.95
+954,10,Pacific Islander,4,Electronics,3,SE,2021-02-08 03:13:00,345.67,312.49,4.3
+955,2,American Indian,7,Mens Apparel,5,NE,2021-04-18 00:52:00,45.98,38.35,3.49
+956,11,Asian,1,Kids Toys,8,SW,2021-03-10 17:02:00,23.45,21.46,0.28
+957,10,Pacific Islander,7,Mens Apparel,5,NE,2021-07-18 21:52:00,45.98,39.16,1.69
+958,1,Asian,8,Kitchen Appliance,1,NE,2021-12-11 12:26:00,65.87,60.31,3.1
+959,5,African American,3,Kitchen Appliance,6,NW,2021-05-21 21:47:00,99.99,85.7,2.47
+960,8,Asian,8,Kitchen Appliance,5,NE,2021-12-01 06:15:00,65.87,64.2,3.09
+961,2,American Indian,4,Electronics,8,SW,2021-09-30 17:20:00,345.67,339.4,30.56
+962,9,American Indian,8,Kitchen Appliance,2,NW,2021-03-07 00:43:00,65.87,59.25,0.03
+963,4,White,7,Mens Apparel,4,SW,2021-08-02 18:16:00,45.98,41.04,1.93
+964,12,Asian,7,Mens Apparel,8,SW,2021-09-08 04:26:00,45.98,38.62,3.41
+965,3,Pacific Islander,4,Electronics,3,SE,2021-04-12 12:47:00,345.67,282.13,27.39
+966,12,Asian,7,Mens Apparel,4,SW,2021-04-09 08:09:00,45.98,43.04,3.21
+967,4,White,5,Electronics,7,SE,2021-11-17 18:09:00,999.99,871.3,11.21
+968,5,African American,1,Kids Toys,2,NW,2021-10-03 23:55:00,23.45,23.36,1.7
+969,2,American Indian,6,Kids Toys,2,NW,2021-06-28 19:48:00,45.67,38.3,0.64
+970,11,Asian,2,Mens Apparel,3,SE,2021-11-18 06:54:00,34.56,32.16,2.64
+971,11,Asian,8,Kitchen Appliance,3,SE,2021-07-01 11:17:00,65.87,57.91,4.65
+972,1,Asian,5,Electronics,1,NE,2021-03-15 07:03:00,999.99,913.64,81.63
+973,9,American Indian,2,Mens Apparel,3,SE,2021-08-02 06:21:00,34.56,31.73,2.28
+974,10,Pacific Islander,1,Kids Toys,6,NW,2021-02-05 14:29:00,23.45,19.1,1.18
+975,5,African American,5,Electronics,1,NE,2021-06-01 17:29:00,999.99,827.79,72.22
+976,9,American Indian,8,Kitchen Appliance,8,SW,2021-06-13 15:13:00,65.87,59.43,2.68
+977,6,African American,8,Kitchen Appliance,2,NW,2021-08-30 20:49:00,65.87,64.34,1.07
+978,1,Asian,5,Electronics,3,SE,2021-03-15 20:34:00,999.99,846.96,3.1
+979,1,Asian,3,Kitchen Appliance,3,SE,2021-05-29 02:13:00,99.99,80.3,5.93
+980,6,African American,1,Kids Toys,6,NW,2021-12-01 09:03:00,23.45,22.47,2.08
+981,4,White,3,Kitchen Appliance,4,SW,2021-11-10 23:47:00,99.99,96.21,2.85
+982,8,Asian,7,Mens Apparel,8,SW,2021-09-25 14:02:00,45.98,43.01,0.01
+983,10,Pacific Islander,8,Kitchen Appliance,6,NW,2021-02-13 08:44:00,65.87,53.53,4.98
+984,4,White,2,Mens Apparel,1,NE,2021-02-19 11:51:00,34.56,32.58,0.15
+985,11,Asian,3,Kitchen Appliance,6,NW,2021-10-31 08:26:00,99.99,81.8,1.06
+986,6,African American,3,Kitchen Appliance,4,SW,2021-12-18 04:49:00,99.99,80.79,0.79
+987,3,Pacific Islander,8,Kitchen Appliance,4,SW,2021-09-05 09:55:00,65.87,55.2,1.75
+988,12,Asian,4,Electronics,1,NE,2021-09-17 03:19:00,345.67,341.88,33.75
+989,2,American Indian,3,Kitchen Appliance,5,NE,2021-05-22 03:51:00,99.99,98.89,4.21
+990,3,Pacific Islander,5,Electronics,6,NW,2021-11-18 15:13:00,999.99,904.3,4.92
+991,9,American Indian,7,Mens Apparel,6,NW,2021-05-11 01:52:00,45.98,37.56,1.08
+992,2,American Indian,5,Electronics,5,NE,2021-08-05 15:48:00,999.99,918.5,77.2
+993,11,Asian,1,Kids Toys,7,SE,2021-10-21 22:54:00,23.45,22.51,1.29
+994,3,Pacific Islander,3,Kitchen Appliance,2,NW,2021-07-18 19:48:00,99.99,92.11,8.4
+995,6,African American,6,Kids Toys,5,NE,2021-07-20 13:59:00,45.67,43.72,3.88
+996,11,Asian,6,Kids Toys,7,SE,2021-01-02 15:34:00,45.67,38.95,3.27
+997,11,Asian,5,Electronics,5,NE,2021-02-07 18:06:00,999.99,907.42,28.56
+998,4,White,7,Mens Apparel,8,SW,2021-02-22 12:57:00,45.98,40.43,2.14
+999,3,Pacific Islander,1,Kids Toys,5,NE,2021-10-01 13:16:00,23.45,22.74,1.11

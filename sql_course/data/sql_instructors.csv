@@ -1,0 +1,201 @@
+instructor_id,name,affiliation,teaching_experience
+1,Damien Tapia,Boise Cascade Corporation,5
+2,Paul Roth,Olin Corp.,4
+3,Charlize Warner,Family Dollar Stores Inc.,5
+4,Talon Foley,Wyndham International Inc,1
+5,Maximo Duffy,Ryerson Tull Inc,1
+6,Cornelius Hardin,Ohio Casualty Corp.,8
+7,Yahir Griffith,Comverse Technology Inc.,4
+8,Elaina Brooks,McLeodUSA Incorporated,7
+9,Damarion Fernandez,SunGard Data Systems Inc.,8
+10,Yosef Woods,Aon Corporation,6
+11,Jenny Rivera,Corn Products International Inc.,2
+12,Cristopher Ballard,Nvidia Corp,1
+13,Lacey Ochoa,Cooper Industries Ltd.,1
+14,Walter Dawson,CSK Auto Corp.,0
+15,Oswaldo Murray,Northern Trust Corporation,4
+16,Uriel Guerrero,Telephone & Data Systems Inc,2
+17,Willow Gardner,Cabot Corp,0
+18,Jimena Zimmerman,McCormick & Company Incorporated,9
+19,Anabella Bennett,America West Holdings Corporation,1
+20,Curtis Gomez,Merrill Lynch & Co. Inc.,1
+21,Cadence Andrade,Gemstar-TV Guide International Inc.,5
+22,Eden Montgomery,Great Lakes Chemical Corporation,1
+23,Ashlyn Frye,Tesoro Petroleum Corp.,2
+24,Jack Yang,US Oncology Inc,5
+25,Tripp Benson,MGIC Investment Corporation,3
+26,Willow Gardner,United Technologies Corporation,8
+27,Savanna Lowery,Genuity Inc.,1
+28,Savanna Lowery,NorthWestern Corporation,5
+29,Maeve Robinson,Sonic Automotive Inc.,2
+30,Jaquan Barr,Comverse Technology Inc.,7
+31,Karma Preston,Exelon Corporation,1
+32,Madalyn Underwood,Legg Mason Inc.,9
+33,Dominik Acosta,Conoco Inc,3
+34,Alissa Oconnor,Jones Apparel Group Inc.,9
+35,Clarence Mclean,Tesoro Petroleum Corp.,3
+36,Aracely Randolph,D.R. Horton Inc.,2
+37,Ximena Wagner,Prudential Financial Inc.,0
+38,Keyon Carr,Cox Communications Inc.,4
+39,Harry Foster,U.S. Industries Inc.,0
+40,Craig Roach,Crown Cork & Seal Co. Inc.,1
+41,Kaylyn Graves,Cendant Corp,8
+42,Russell Gross,Microsoft Corporation,8
+43,Trenton Barnes,Texas Industries Inc.,5
+44,Dwayne Ruiz,Sierra Health Services Inc,2
+45,Benjamin Norris,3M Company,2
+46,Lindsey Howard,Quest Diagnostics Inc.,4
+47,Nina Sosa,Integrated Electrical Services Inc.,7
+48,Isis Mason,Target Corp.,6
+49,Kallie Bartlett,Ryerson Tull Inc,9
+50,Bentley Burke,Alleghany Corporation,4
+51,Freddy Howard,First Tennessee National Corp.,3
+52,Nathalia Alvarado,Staff Leasing Inc.,6
+53,Courtney Landry,Concord EFS Inc.,0
+54,Kymani Allen,Mellon Financial Corporation,8
+55,Talan Bradley,Crown Cork & Seal Co. Inc.,7
+56,Cruz Hardin,Flowers Foods Inc.,2
+57,Thalia Adams,AMR Corporation,6
+58,Areli Sharp,CDI Corp.,3
+59,Brice Kidd,Circuit City Stores Inc.,9
+60,Valentina Whitaker,Tellabs Inc.,7
+61,Kelsey Duke,DTE Energy Co.,3
+62,Drew Cruz,Millennium Chemicals Inc.,4
+63,Freddy Price,IMS Health Inc.,0
+64,Kaleigh Downs,Cincinnati Financial Corp.,4
+65,Gage Dickerson,Fidelity National Financial Inc.,1
+66,Tori Wise,Kelly Services Inc.,9
+67,Annabel Walters,H&R Block Inc.,9
+68,Mathew Greer,Pioneer-Standard Electronics Inc.,6
+69,Jackson Snyder,Sun Healthcare Group Inc.,6
+70,Gunner Knox,Gold Kist Inc.,3
+71,Garrett Hancock,CenturyTel Inc.,3
+72,Damion Cardenas,Wisconsin Energy Corporation,6
+73,Tripp Benson,The Goodyear Tire & Rubber Company,5
+74,Reed Spencer,Avaya Inc.,9
+75,Leonel Meadows,Hercules Inc.,4
+76,Parker Blackwell,Abbott Laboratories,8
+77,Carolina Banks,Federal Mogul Corp.,4
+78,Mikayla Neal,International Flavors & Fragrances Inc.,1
+79,Jaslyn Farrell,PolyOne Corp,1
+80,Enrique Reed,Safeco Corp,5
+81,Esteban Case,PerkinElmer Inc,7
+82,Estrella Mitchell,Rite Aid Corp,5
+83,Caroline Watkins,Maytag Corporation,3
+84,Duncan Harris,Visteon Corporation,2
+85,Breanna Huerta,General Motors Corporation,2
+86,Waylon Shannon,Honeywell International Inc.,8
+87,Keshawn Klein,Engelhard Corporation,9
+88,Koen Cameron,First Tennessee National Corp.,5
+89,Santos Mccall,Cooper Tire & Rubber Co.,9
+90,Amelie Mcconnell,Penn Traffic Co.,3
+91,Cornelius Hardin,Spartan Stores Inc,5
+92,Ryker Hart,Nicor Inc,0
+93,Brandon Maynard,Paychex Inc,7
+94,Kameron Spencer,Williams Sonoma Inc,4
+95,Craig Roach,Mail-Well Inc.,5
+96,Jose Eaton,Community Health Systems Inc.,8
+97,Cadence Andrade,Pioneer-Standard Electronics Inc.,3
+98,Jaylen Ortiz,Pacific Gas & Electric Corp.,4
+99,Jaden Aguirre,Costco Wholesale Corp.,4
+100,James Vega,Williams Companies Inc,6
+101,Tori Wise,Bed Bath & Beyond Inc.,4
+102,Keyon Carr,Furniture Brands International Inc.,3
+103,Ricky Huffman,Equifax Inc.,3
+104,Jorden Navarro,ALLTEL Corporation,6
+105,Karli Ayala,Praxair Inc,7
+106,Yadira Galloway,Solectron Corp,4
+107,Jerimiah Larsen,StanCorp Financial Group Inc,4
+108,Chase Brady,PNM Resources Inc,7
+109,Marques Taylor,MGM Mirage,4
+110,Yaritza Vasquez,ACT Manufacturing Inc.,9
+111,Kinley Hendrix,Host Marriott Corp.,5
+112,Addison Estrada,Rockwell Collins Inc,8
+113,Jaden Hobbs,Michaels Stores Inc.,1
+114,Kamren Donaldson,Sabre Holdings Corp,6
+115,Anabella Bennett,John Hancock Financial Services Inc.,3
+116,Grace Crosby,Baxter International Inc.,7
+117,Dean Patel,Abbott Laboratories,9
+118,Skyler Avila,Champion Enterprises Inc.,7
+119,Sanaa Krueger,NCR Corporation,8
+120,Carlos Lam,United Parcel Service Inc,4
+121,Jude Potter,SunTrust Banks Inc,6
+122,Zion Peterson,Trinity Industries Inc,6
+123,Joaquin Jacobs,Household International Corp.,8
+124,Frederick Bowers,Oshkosh Truck Corp,9
+125,Willow Gardner,Toro Company,4
+126,Jameson Russo,Compuware Corp.,1
+127,Adolfo Cannon,Henry Schein Inc.,7
+128,Jorden Navarro,Performance Food Group Co.,5
+129,Jovanni Hansen,Ball Corporation,4
+130,Sarahi Miles,Progress Energy Inc,9
+131,Trenton Rosario,Unified Western Grocers Inc,2
+132,Allyson Ramirez,Gentiva Health Services Inc.,3
+133,Darren Reed,Lincoln National Corporation,9
+134,Annabelle Stuart,Amgen Inc.,2
+135,Willow Cherry,Kerr-McGee Corporation,8
+136,Cali Keller,Visteon Corporation,5
+137,Lennon Wilcox,UnumProvident Corporation,2
+138,Jovani Bush,Bausch & Lomb Incorporated,6
+139,Luna Barron,ConAgra Foods Inc.,9
+140,Selah Kim,Home Depot Inc.,4
+141,Sarahi Miles,Cablevision Systems Corp,7
+142,Yaritza Vasquez,Tellabs Inc.,5
+143,Carolina Walters,PPL Corp,8
+144,Donald Brennan,Sequa Corp,9
+145,Annalise Ward,First Data Corp.,4
+146,Phillip Wolf,Nicor Inc,0
+147,Leonel Meadows,The Goodyear Tire & Rubber Company,1
+148,Kamora Harrison,IT Group Inc.,2
+149,Kenneth Ewing,Fifth Third Bancorp,5
+150,Garrett Hancock,Manor Care Inc.,3
+151,Jaden Aguirre,Ball Corporation,0
+152,Russell Gross,W.W. Grainger Inc,3
+153,Jayvion Moore,Mellon Financial Corporation,4
+154,Luna Barron,Occidental Petroleum Corp,2
+155,Gisselle Pruitt,Nextel Communications Inc,1
+156,Gemma Reynolds,URS Corporation,7
+157,Micaela Campos,Phillips Petroleum Co,0
+158,Jaida Foster,Lehman Brothers Holdings Inc.,0
+159,Alfred Knapp,Target Corp.,0
+160,Nikolas Deleon,J.P. Morgan Chase & Co.,8
+161,Kelsey Duke,Visteon Corporation,2
+162,Lorelei Galvan,Owens Corning,7
+163,Kasen Gilbert,Greif Bros. Corporation,7
+164,Jean Rocha,Protective Life Corp,3
+165,Alexis Moody,Alleghany Corporation,0
+166,Mareli Vargas,Colgate-Palmolive Co.,4
+167,Abril Gross,Maxim Integrated Products Inc.,3
+168,Ahmed Esparza,Levi Strauss & Co.,3
+169,Chasity Richards,Delta Air Lines Inc.,6
+170,Tripp Benson,Owens Corning,4
+171,Micaela Campos,McLeodUSA Incorporated,0
+172,Humberto Skinner,Radio Shack Corporation,3
+173,Ariella Booth,Cendant Corp,2
+174,Frances Roy,Phar Mor Inc.,3
+175,Esteban Case,Hibernia Corp.,3
+176,Magdalena Drake,Genzyme Corporation,1
+177,Audrey Alvarez,Medtronic Inc.,3
+178,Madalyn Underwood,AMC Entertainment Inc.,6
+179,Brielle Owens,Dun & Bradstreet Inc.,8
+180,Kaitlynn Mahoney,Caremark Rx Inc.,5
+181,Marques Taylor,Oxford Health Plans Inc,0
+182,Alejandra Mccarty,Vectren Corporation,4
+183,Carmelo Rich,Staples Inc,6
+184,Devin Best,NCR Corporation,7
+185,Marisol Petersen,Spherion Corp,2
+186,Ariella Booth,Archer Daniels Midland Company,0
+187,Lorelei Galvan,DaVita Inc.,1
+188,Odin Lucero,ABM Industries Incorporated,0
+189,Darion Harrell,United Technologies Corporation,5
+190,Haylee Bowers,AMERCO,9
+191,Hannah Glover,World Fuel Services Corporation,8
+192,Gunner Knox,TravelCenters of America Inc.,2
+193,Bo Winters,Union Planters Corp,2
+194,Violet Santana,The Lubrizol Corporation,5
+195,Jimmy Whitney,Pioneer-Standard Electronics Inc.,0
+196,Karma Everett,Golden West Financial Corporation,2
+197,Karma Preston,Jack In The Box Inc.,0
+198,Jaden Aguirre,Peoples Energy Corp.,8
+199,Clarence Mclean,Kelly Services Inc.,3
+200,Abby Vargas,Navistar International Corporation,1
