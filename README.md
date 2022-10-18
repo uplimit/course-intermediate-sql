@@ -13,7 +13,7 @@ pip install git+https://github.com/corise/intermediate-sql.git
 Then you can run a SQL query like:
 
 ```Python
-from isqlc import run, check
+from sql_course import run, check
 
 ### Question: q1_1_1
 query = "SELECT * FROM courses"
