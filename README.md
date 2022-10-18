@@ -1,6 +1,6 @@
 # Intermediate-sql package
 
-Run an SQL query for the "Intermediate SQL Course" using isqlc.
+Run an SQL query for the "Intermediate SQL Course" using sql_course package.
 
 ## Install
 
