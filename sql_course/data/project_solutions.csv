@@ -1,42 +1,25 @@
 key;value
-q1_1_1;SELECT * FROM listings
-q1_1_2a;SELECT * FROM neighbourhoods
-q1_1_2b;SELECT * FROM reviews
-q1_1_2c;SELECT * FROM calendar
-q1_2_1;SELECT host_id, host FROM listings
-q1_2_2;SELECT host_id, host FROM listings ORDER BY host_id DESC
-q1_2_3;SELECT host_id, host FROM listings WHERE neighbourhood_id = 35 ORDER BY host_id DESC
-q1_2_4;SELECT host_id, host FROM listings WHERE neighbourhood_id = 27 AND room_type = 'Private room' ORDER BY host_id DESC
-q1_2_5;SELECT * FROM calendar WHERE date BETWEEN '2022-09-09' AND '2022-09-11'
-q1_2_6;SELECT * FROM calendar WHERE listing_id = 7581665 AND date BETWEEN '2022-09-09' AND '2022-09-11'
-q1_2_7a;SELECT * FROM calendar WHERE listing_id = 657377039990074158
-q1_2_7b;SELECT * FROM reviews WHERE listing_id = 657377039990074158
-q1_2_7c;SELECT * FROM listings WHERE listing_id = 657377039990074158
-q2_1_1;SELECT * FROM neighbourhoods
-q2_2_1;SELECT * FROM listings WHERE host LIKE 'Jos%'
-q2_2_2a;SELECT * FROM neighbourhoods WHERE neighbourhood_id = 21
-q2_2_2b;SELECT * FROM calendar WHERE listing_id = 22296011
-q2_2_2c;SELECT * FROM reviews WHERE listing_id = 22296011
-q2_3_1a;SELECT AVG(price_in_dollar) FROM listings
-q2_3_1b;SELECT MAX(price_in_dollar) FROM listings
-q2_3_1c;SELECT MIN(price_in_dollar) FROM listings
-q2_4_1;SELECT neighbourhood_id, COUNT(neighbourhood_id) FROM listings GROUP BY neighbourhood_id
-q2_4_2;SELECT neighbourhood_id, COUNT(neighbourhood_id) FROM listings GROUP BY neighbourhood_id ORDER BY COUNT(neighbourhood_id) DESC
-q2_4_3a;SELECT neighbourhood_id FROM listings
-q2_4_3b;SELECT neighbourhood_id FROM neighbourhoods
-q2_4_3c;SELECT neighbourhood_id FROM neighbourhoods WHERE neighbourhood_id NOT IN (SELECT neighbourhood_id FROM listings)
-q2_5_1a;SELECT neighbourhood_id, COUNT(neighbourhood_id) FROM listings GROUP BY neighbourhood_id
-q2_5_1b;SELECT neighbourhood_id, COUNT(neighbourhood_id) FROM listings GROUP BY neighbourhood_id HAVING COUNT(neighbourhood_id) > 4
-q2_5_2;SELECT neighbourhood FROM neighbourhoods WHERE neighbourhood_id IN (SELECT neighbourhood_id FROM listings GROUP BY neighbourhood_id HAVING COUNT(neighbourhood_id) > 4)
-q2_6_1;SELECT listing, listing_id, host, host_id, CASE WHEN price_in_dollar < 70 THEN 'Affordable' WHEN price_in_dollar > 300 THEN 'Expensive' ELSE 'Mid-range' END price_range FROM listings
-q1_2_8a;SELECT * FROM listings WHERE neighbourhood_id IN (21, 28, 4)
-q1_2_8b;SELECT * FROM listings WHERE neighbourhood_id IN (1, 26 , 37) ORDER BY price_in_dollar
-q1_2_9a;SELECT available FROM calendar WHERE listing_id IN (22296011, 8476652, 28268415, 40426054) 
-q1_2_9b;SELECT available FROM calendar WHERE listing_id IN (658279799851154919, 10549608, 41983356, 44284905, 2033151, 34027782, 46159786, 9376988, 10111788)
-q1_2_10a;SELECT * FROM listings WHERE price_in_dollar >= 400 ORDER BY price_in_dollar
-q1_2_10b;SELECT * FROM listings WHERE neighbourhood_id IN (20, 26) AND price_in_dollar >= 400 ORDER BY price_in_dollar
-q1_2_10c;SELECT * FROM reviews WHERE listing_id IN (21443493, 10729688, 9012529, 46159786, 9376988) ORDER BY listing_id
-q2_7_1a;SELECT * FROM listings WHERE price_in_dollar >= 70 AND price_in_dollar <= 100
-q2_7_1b;SELECT * FROM calendar WHERE listing_id IN (SELECT listing_id FROM listings WHERE price_in_dollar >= 70 AND price_in_dollar <= 100)
-q2_7_1c;SELECT COUNT(available) FROM calendar WHERE listing_id IN (SELECT listing_id FROM listings WHERE price_in_dollar >= 70 AND price_in_dollar <= 100)
-q2_7_1d;SELECT SUM(available) FROM calendar WHERE listing_id IN (SELECT listing_id FROM listings WHERE price_in_dollar >= 70 AND price_in_dollar <= 100)
+q1_1_1;select count(*) as cnt from courses
+q_1_2;select distinct course_category from courses
+q_2_1;select count(*) as cnt from courses where course_category = 'Machine Learning'
+q_2_2;select strftime("%Y",start_date) as year, count(*)as count_by_year from courses where   course_category = 'Machine Learning' group by strftime("%Y",start_date)
+q_2_3;select distinct course_name, course_category, course_desc from courses where lower(course_name || course_desc) like '%ml%' or lower(course_name || course_desc) like '%learning%' or lower(course_name || course_desc) like '%models%'
+q_2_4;select strftime("%Y",start_date) as year, count(*) as count_by_year from courses where course_category = 'Machine Learning' or course_category = 'Deep Learning' or course_category = 'Language Processing' group by strftime("%Y",start_date)
+q_3_1;select strftime("%Y",start_date) as year, count(*) as count_by_year from courses group by strftime("%Y",start_date)
+q_3_2;select (sum(case when strftime("%Y",start_date) = '2020' then nps else 0 end)/ sum(case when strftime("%Y",start_date) = '2020' then 1.0 else 0.0 end)) as covid_nps, sum(case when strftime("%Y",start_date) != '2020' then nps else 0 end)/ sum(case when strftime("%Y",start_date) != '2020' then 1.0 else 0.0 end) as rest_nps from courses
+q_3_3;select strftime("%Y",start_date) as year, avg(nps) from courses group by strftime("%Y",start_date)
+q_3_4;select strftime("%Y",start_date) as year, avg(num_learners_registered/num_tas) as learner_ta_ratio, avg(num_weeks) as avg_num_weeks from courses group by strftime("%Y",start_date)
+q_4_1;select min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses
+q_4_2;select case when num_learners_registered < 30 then 'low' when num_learners_registered < 100 then 'medium' else 'high' end as num_learners_bucket, min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses group by num_learners_bucket
+q_4_3;select case when num_weeks < 4 then 'short' else 'long' end as course_duration, course_level, avg(nps) as avg_nps from courses group by course_duration, course_level
+q2_1_1;select count(*) as cnt from course_info inner join course_run on (course_info.course_id = course_run.course_id) where course_category = 'Machine Learning'
+q2_1_2;select strftime("%Y",start_date) as year, count(*) as count_by_year from course_info inner join course_run on (course_info.course_id = course_run.course_id) where course_category = 'Machine Learning' group by strftime("%Y",start_date)
+q2_1_3;select distinct course_name, course_category, course_desc from course_info where lower(course_name || course_desc) like '%ml%' or lower(course_name || course_desc) like '%learning%' or lower(course_name || course_desc) like '%models%'
+q2_1_4;select strftime("%Y",start_date) as year, count(*) as count_by_year from course_info inner join course_run on (course_info.course_id = course_run.course_id) where course_category = 'Machine Learning' or course_category = 'Deep Learning' or course_category = 'Language Processing' group by strftime("%Y",start_date)
+q2_2_1;select strftime("%Y",start_date) as year, count(*) as count_by_year from course_run group by strftime("%Y",start_date)
+q2_2_2;  select (sum(case when strftime("%Y",start_date) = '2020' then nps else 0 end)/ sum(case when strftime("%Y",start_date) = '2020' then 1.0 else 0.0 end)) as covid_nps, sum(case when strftime("%Y",start_date) != '2020' then nps else 0 end)/ sum(case when strftime("%Y",start_date) != '2020' then 1.0 else 0.0 end) as rest_nps from course_run
+q2_2_3;select strftime("%Y",start_date) as year, avg(nps) from course_run group by strftime("%Y",start_date)
+q2_3_1;select min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from course_run
+q2_3_2;select case when num_weeks < 4 then 'short' else 'long' end as course_duration, course_level, avg(nps) as avg_nps from course_run inner join course_info on (course_run.course_id = course_info.course_id) group by course_duration, course_level
+q2_4_1;select course_name, CR.course_run_id, count(L.learner_id) as num_learners, CR.nps from  course_run as CR inner join instructors as I on (CR.instructor_id = I.instructor_id) inner join course_info as CI on (CR.course_id = CI.course_id) inner join course_registration_info as CRI on (CR.course_run_id = CRI.course_run_id) inner join learners as L on (L.learner_id = CRI.learner_id) where I.affiliation !=  'M & T Bank Corporation' and CI.course_level = 'B' and L.affiliation = 'M & T Bank Corporation' group by CR.course_run_id, CR.nps having count(L.learner_id) > 2
+q2_4_2; select CR1.course_run_id, CR2.course_run_id, CR1.nps, CR2.nps, I1.affiliation, I2.affiliation, CR1.start_date, CR2.start_date from (course_run as CR1 inner join instructors as I1 on (CR1.instructor_id = I1.instructor_id)) inner join (course_run as CR2 inner join instructors as I2 on (CR2.instructor_id = I2.instructor_id)) on (CR1.nps +10 < CR2.nps and CR1.start_date < CR2.start_date and CR1.course_id = CR2.course_id and (cast(strftime("%Y",CR1.start_date) as int) +1 >= (cast(strftime("%Y",CR2.start_date) as int)))) where I1.affiliation = 'Cincinnati Financial Corp.'
