@@ -62,6 +62,7 @@ def check(**key_user_sql_query):
                 
                 # First check if contains the same columns
                 # TODO- replace columns.tolist with shape[1] since shape is faster for large dataframes
+                print (sql_sol_df.colums.tolist())
                 if sql_sol_df.columns.tolist() != current_sql_df.columns.tolist():
                     print("Your SQL query does NOT match our solution. There is a mismatch in columns.")
                 elif sql_sol_df.shape[0] != current_sql_df.shape[0]:
