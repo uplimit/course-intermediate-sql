@@ -23,7 +23,7 @@ CSV_FILES_URL = [
     ]
 SOLUTION_CSV = "project_solutions.csv"
 
-def are_dataframes_same(df1: DataFrame, df2: DataFrame):
+def are_dataframes_same(df1: pd.DataFrame, df2: pd.DataFrame):
     """Find rows which are different between two DataFrames."""
     comparison_df = df1.merge(
         df2,
