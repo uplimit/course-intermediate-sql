@@ -32,7 +32,7 @@ def are_dataframes_same(df1: DataFrame, df2: DataFrame):
     )
     
     diff_df = comparison_df[comparison_df['_merge'] == 'both']
-    if diff_df.shape[0] == df1.shape[0]
+    if diff_df.shape[0] == df1.shape[0]:
         return True
     else
         return False
