@@ -65,7 +65,7 @@ def check(**key_user_sql_query):
                 print (sql_sol_df.columns.tolist())
                 print(sql_sol_df.shape)
                 print(current_sql_df.columns.tolist()
-                print(current_sql_df.df.shape)
+                print(current_sql_df.shape)
                 if sql_sol_df.columns.tolist() != current_sql_df.columns.tolist():
                     print("Your SQL query does NOT match our solution. There is a mismatch in columns.")
                 elif sql_sol_df.shape[0] != current_sql_df.shape[0]:
