@@ -67,7 +67,7 @@ def check(**key_user_sql_query):
                     if sql_sol_df.equals(current_sql_df):
                         print("Your SQL query is correct!")
                     else:
-                        print("Your SQL query does NOT match our solution. The number of rows is different.")
+                        print("Your SQL query does NOT match our solution. The content of the rows is different.")
             else:
                 raise QuestionKeyUnknown
         except QuestionKeyUnknown:
