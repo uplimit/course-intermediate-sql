@@ -23,6 +23,20 @@ CSV_FILES_URL = [
     ]
 SOLUTION_CSV = "project_solutions.csv"
 
+def are_dataframes_same(df1: DataFrame, df2: DataFrame):
+    """Find rows which are different between two DataFrames."""
+    comparison_df = df1.merge(
+        df2,
+        indicator=True,
+        how='outer'
+    )
+    
+    diff_df = comparison_df[comparison_df['_merge'] == 'both']
+    if diff_df.shape[0] == df1.shape[0]
+        return True
+    else
+        return False
+ 
 
 def run(sql_query: str) -> pd.DataFrame:
     """
@@ -70,7 +84,8 @@ def check(**key_user_sql_query):
                     print("Your SQL query does NOT match our solution. There is a mismatch in columns.")
                 elif sql_sol_df.shape[0] != current_sql_df.shape[0]:
                     print("Your SQL query does NOT match our solution. The number of rows is different.")
-                elif sql_sol_df.equals(current_sql_df):
+                #elif sql_sol_df.equals(current_sql_df):
+                elif are_dataframes_same(sql_sol_df, current_sql_df):
                     print("Your SQL query is correct!")
                 else:
                     print("Your SQL query does NOT match our solution. The values are different.")
