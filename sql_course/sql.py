@@ -24,6 +24,7 @@ CSV_FILES_URL = [
 SOLUTION_CSV = "project_solutions.csv"
 
 def are_dataframes_same(df1: pd.DataFrame, df2: pd.DataFrame):
+    # this assumes that df1 and df2 have the same number of rows
    
     comparison_df = df1.merge(
         df2,
@@ -33,6 +34,7 @@ def are_dataframes_same(df1: pd.DataFrame, df2: pd.DataFrame):
     
     diff_df = comparison_df[comparison_df['_merge'] == 'both']
     if diff_df.shape[0] == df1.shape[0]:
+        #this assumes df2.shape[0] == df1.shape[0]
         return True
     else:
         return False
