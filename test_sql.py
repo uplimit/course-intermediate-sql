@@ -72,3 +72,16 @@ from
 
 sql_run(col_mismatch_query)
 check(q2_4_2 = col_mismatch_query)
+
+cell_mismatch_query = """
+  select 
+    strftime("%Y",start_date) as year, 
+    avg(num_learners_registered/num_tas) as learner_ta_ratio, 
+    avg(num_weeks) as avg_num_weeks
+  from courses 
+  group by strftime("%Y",start_date)
+
+"""
+sql_run(cell_mismatch_query)
+check(q_3_4 = cell_mismatch_query)
+
