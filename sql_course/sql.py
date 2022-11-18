@@ -64,7 +64,7 @@ def check(**key_user_sql_query):
                 # TODO- replace columns.tolist with shape[1] since shape is faster for large dataframes
                 print (sql_sol_df.columns.tolist())
                 print(sql_sol_df.shape)
-                print(current_sql_df.columns.tolist()
+                print(current_sql_df.columns.tolist())
                 print(current_sql_df.shape)
                 if sql_sol_df.columns.tolist() != current_sql_df.columns.tolist():
                     print("Your SQL query does NOT match our solution. There is a mismatch in columns.")
