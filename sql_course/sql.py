@@ -72,9 +72,19 @@ def check(**key_user_sql_query):
             if key in sql_sol_dict:
                 sql_sol_df = run(sql_sol_dict[key])
                 current_sql_df = run(user_sql_query)
+
                 # order the columns
                 sql_sol_df.sort_index(axis=1, inplace=True)
                 current_sql_df.sort_index(axis=1, inplace=True)
+                
+                #rename columns to fix duplicate column names
+                import itertools
+                # start iter counter
+                inc = itertools.count().__next__
+                sql_sol_df.rename(inplace=True, columns=lambda name: f"{name}{inc()}")
+                # reset iter counter
+                inc = itertools.count().__next__
+                current_sql_df.rename(inplace=True, columns=lambda name: f"{name}{inc()}")
                 
                 # First check if contains the same columns
                 # TODO- replace columns.tolist with shape[1] since shape is faster for large dataframes
