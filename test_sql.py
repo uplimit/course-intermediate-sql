@@ -27,10 +27,10 @@ check(q2_4_2 = good_query)
 
 good_ordered_query = """
 select 
-  CR1.course_run_id, 
-  CR2.course_run_id, 
   CR1.nps, 
   CR2.nps, 
+  CR1.course_run_id, 
+  CR2.course_run_id, 
   I1.affiliation, 
   I2.affiliation, 
   CR1.start_date, 

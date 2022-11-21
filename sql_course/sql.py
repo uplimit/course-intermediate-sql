@@ -73,6 +73,10 @@ def check(**key_user_sql_query):
                 sql_sol_df = run(sql_sol_dict[key])
                 current_sql_df = run(user_sql_query)
 
+                # order the columns
+                sql_sol_df.sort_index(axis=1, inplace=True)
+                current_sql_df.sort_index(axis=1, inplace=True)
+                
                 #rename columns to fix duplicate column names
                 import itertools
                 # start iter counter
