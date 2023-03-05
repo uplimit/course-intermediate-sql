@@ -1,18 +1,26 @@
 key;value
-q_0_1;select * from courses limit 10
-q_1_1;select count(*) as cnt from courses
-q_1_2;select distinct course_category from courses
-q_2_1;select count(*) as cnt from courses where course_category = 'Machine Learning'
-q_2_2;select strftime("%Y",start_date) as year, count(*)as count_by_year from courses where course_category = 'Machine Learning' group by strftime("%Y",start_date)
-q_2_3;select distinct course_name, course_category, course_desc from courses where lower(course_name || course_desc) like '%ml%' or lower(course_name || course_desc) like '%learning%' or lower(course_name || course_desc) like '%models%'
-q_2_4;select strftime("%Y",start_date) as year, count(*) as count_by_year from courses where course_category = 'Machine Learning' or course_category = 'Deep Learning' or course_category = 'Language Processing' group by strftime("%Y",start_date)
-q_3_1;select strftime("%Y",start_date) as year, count(*) as count_by_year from courses group by strftime("%Y",start_date)
-q_3_2;select avg(case when strftime("%Y", start_date) = '2020' then nps end) as covid_nps, avg(case when strftime("%Y", start_date) != '2020' then nps end) as rest_nps from courses
-q_3_3;select strftime("%Y",start_date) as year, avg(nps) from courses group by strftime("%Y",start_date)
-q_3_4;select strftime("%Y",start_date) as year, avg(cast(num_learners_registered as float)/num_tas) as learner_ta_ratio, avg(num_weeks) as avg_num_weeks from courses group by strftime("%Y",start_date)
-q_4_1;select min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses
-q_4_2;select case when num_learners_registered < 30 then 'low' when num_learners_registered < 100 then 'medium' when num_learners_registered >= 100 then 'high' end as num_learners_bucket, min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses where num_learners_registered is not null group by case when num_learners_registered < 30 then 'low' when num_learners_registered < 100 then 'medium' when num_learners_registered >= 100 then 'high' end
-q_4_3;select case when num_weeks < 4 then 'short' else 'long' end as course_duration, course_level, avg(nps) as avg_nps from courses group by case when num_weeks < 4 then 'short' else 'long' end, course_level
+q0_0_1;select * from courses limit 10
+q0_1_1;select count(*) as cnt from courses
+q0_1_2;select * from courses order by nps desc limit 10
+q0_1_3;select distinct course_category from courses
+q0_1_4;select count(*) as cnt from courses where course_category = 'Machine Learning'
+q0_1_5;select distinct course_category from courses where num_weeks > 2 and num_tas > 4
+q0_1_6; select distinct course_name from courses where (nps > 85 and num_tas > 3) or not (course_category = 'Machine Learning' or num_tas < 5)
+q0_2_1;select min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses
+q0_2_2;select course_category, min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses group by course_category
+q0_2_3;select course_category, min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses where num_weeks <= 6 group by course_category
+q0_2_4;select course_category, min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses group by course_category having count(distinct course_name) > 3
+q0_2_5;select course_category, min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses group by course_category having count(distinct course_name) > 3 order by avg_nps desc limit 1
+q0_3_1;select course_category, avg(cast(num_learners_registered as float)/num_tas) as avg_learner_ta_ratio, avg(num_weeks) as avg_num_weeks from courses group by course_category
+q1_1_1;select strftime("%Y",start_date) as year, count(*)as count_by_year from courses where course_category = 'Machine Learning' group by strftime("%Y",start_date)
+q1_1_2;select distinct course_name, course_category, course_desc from courses where lower(course_name || course_desc) like '%ml%' or lower(course_name || course_desc) like '%learning%' or lower(course_name || course_desc) like '%models%'
+q1_1_3;select strftime("%Y",start_date) as year, count(*) as count_by_year from courses where course_category = 'Machine Learning' or course_category = 'Deep Learning' or course_category = 'Language Processing' group by strftime("%Y",start_date)
+q1_2_1;select strftime("%Y",start_date) as year, count(*) as count_by_year from courses group by strftime("%Y",start_date)
+q1_2_2;select avg(case when strftime("%Y", start_date) = '2020' then nps end) as covid_nps, avg(case when strftime("%Y", start_date) != '2020' then nps end) as rest_nps from courses
+q1_2_3;select strftime("%Y",start_date) as year, avg(nps) from courses group by strftime("%Y",start_date)
+q1_2_4;select strftime("%Y",start_date) as year, avg(cast(num_learners_registered as float)/num_tas) as learner_ta_ratio, avg(num_weeks) as avg_num_weeks from courses group by strftime("%Y",start_date)
+q1_3_1;select case when num_learners_registered < 30 then 'low' when num_learners_registered < 100 then 'medium' when num_learners_registered >= 100 then 'high' end as num_learners_bucket, min(nps) as min_nps, max(nps) as max_nps, avg(nps) as avg_nps from courses where num_learners_registered is not null group by case when num_learners_registered < 30 then 'low' when num_learners_registered < 100 then 'medium' when num_learners_registered >= 100 then 'high' end
+q1_3_2;select case when num_weeks < 4 then 'short' else 'long' end as course_duration, course_level, avg(nps) as avg_nps from courses group by case when num_weeks < 4 then 'short' else 'long' end, course_level
 q2_1_1;select count(*) as cnt from course_info inner join course_run on (course_info.course_id = course_run.course_id) where course_category = 'Machine Learning'
 q2_1_2;select strftime("%Y",start_date) as year, count(*) as count_by_year from course_info inner join course_run on (course_info.course_id = course_run.course_id) where course_category = 'Machine Learning' group by strftime("%Y",start_date)
 q2_1_3;select distinct course_name, course_category, course_desc from course_info where lower(course_name || course_desc) like '%ml%' or lower(course_name || course_desc) like '%learning%' or lower(course_name || course_desc) like '%models%'
