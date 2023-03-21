@@ -59,10 +59,10 @@ def run(sql_query: str) -> pd.DataFrame:
 
     # Return the output as Pandas dataframe
     # Hack based on https://stackoverflow.com/a/73491746 to keep int as int instead of float
-    df = dataframe.fillna(-999999, inplace=True)
-    df = df.convert_dtypes()
-    df = df.replace(-999999, None)
-    return df
+    dataframe.fillna(-999999, inplace=True)
+    dataframe = dataframe.convert_dtypes()
+    dataframe = dataframe.replace(-999999, None)
+    return dataframe
 
 
 def check(**key_user_sql_query):
