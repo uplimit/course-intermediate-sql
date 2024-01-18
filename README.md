@@ -7,7 +7,7 @@ Run an SQL query for the "Intermediate SQL Course" using sql_course package.
 You can install the package by running:
 
 ```
-pip install git+https://github.com/corise/intermediate-sql.git
+pip install git+https://github.com/uplimit/course-intermediate-sql.git
 ```
 
 Then you can run a SQL query like:
